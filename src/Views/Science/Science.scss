@@ -1,0 +1,18 @@
+@import "../../Styles/styles.scss";
+
+.science-section {
+  width: 100vw;
+  margin: 40px 0;
+  min-height: 1950px;
+
+  .container {
+    width: 90%;
+    margin: 0 auto;
+
+    .grid-contain {
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+      grid-gap: 30px 30px;
+    }
+  }
+}

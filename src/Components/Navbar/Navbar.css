@@ -1,0 +1,18 @@
+.navbar {
+  width: 100%; }
+  .navbar .container {
+    width: 90%;
+    margin: 0 auto; }
+    .navbar .container .nav {
+      width: 35%;
+      display: flex;
+      justify-content: space-between;
+      height: 100%;
+      align-items: center;
+      font-size: 18px; }
+      .navbar .container .nav li a {
+        color: #bbbbbb; }
+        .navbar .container .nav li a.active {
+          color: #005587;
+          padding: 6px 0;
+          border-bottom: 3px solid #005587; }

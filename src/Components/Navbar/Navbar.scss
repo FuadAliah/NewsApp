@@ -1,0 +1,31 @@
+@import "../../Styles/styles.scss";
+
+.navbar {
+  width: 100%;
+
+  .container {
+    width: 90%;
+    margin: 0 auto;
+
+    .nav {
+      width: 35%;
+      display: flex;
+      justify-content: space-between;
+      height: 100%;
+      align-items: center;
+      font-size: 18px;
+
+      li {
+        a {
+          color: $gray-color;
+
+          &.active {
+            color: $main-color;
+            padding: 6px 0;
+            border-bottom: 3px solid $main-color;
+          }
+        }
+      }
+    }
+  }
+}

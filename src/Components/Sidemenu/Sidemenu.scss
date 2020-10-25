@@ -1,0 +1,111 @@
+@import "../../Styles/styles.scss";
+
+.user-info {
+  display: flex !important;
+  align-items: center;
+  padding: 19px 30px;
+  justify-content: space-between;
+  border-bottom: solid 1px #e4e4e4;
+
+  .user-profile {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    img {
+      width: 24px;
+      height: 24px;
+      margin-right: 12px;
+    }
+
+    .info {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: flex-start;
+      height: 32px;
+
+      .name {
+        font-size: 15px;
+        line-height: 16px;
+        color: #18191bb3;
+      }
+
+      .email {
+        font-size: 13px;
+        line-height: 13px;
+        color: #18191b66;
+      }
+    }
+  }
+
+  .action {
+    .logout {
+      border-radius: 16px;
+      border: solid 1px #e4e4e4;
+      font-size: 14px;
+      color: #1b1d3080;
+      padding: 7px 24px;
+      transition: all 0.3s ease-in-out;
+
+      &:hover {
+        background: #f7f7f7;
+      }
+    }
+  }
+}
+
+.bm-burger-button {
+  position: fixed;
+  width: 39px;
+  height: 39px;
+  right: 19px;
+  top: 16px;
+  border: 0;
+  border-radius: 50%;
+  outline: none;
+}
+
+.bm-burger-bars {
+  display: none;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  display: none;
+}
+
+.bm-menu-wrap {
+  position: fixed;
+  height: 100%;
+  top: 0;
+  box-shadow: -1px 0 8px rgba(0, 0, 0, 0.15);
+}
+
+.bm-menu {
+  background: #fff;
+  font-size: 1.15em;
+  color: #373a47;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: #b8b7ad;
+}
+
+/* Individual item */
+.bm-item {
+  display: inline-block;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: transparent !important;
+  top: 0px;
+  left: 0px;
+}

@@ -1,0 +1,42 @@
+@import "../../Styles/styles.scss";
+
+.latest-news {
+  width: 100vw;
+  height: 78vh;
+  display: flex;
+  align-items: center;
+  margin-top: 60px;
+
+  .container {
+    width: 90%;
+    margin: 0 auto;
+
+    .loading {
+      display: flex;
+      align-items: center;
+      width: 100%;
+      height: calc(100vh - 70px);
+      justify-content: center;
+    }
+
+    .grid-contain {
+      display: flex;
+      width: 100%;
+      align-items: center;
+      justify-content: space-between;
+
+      .grid {
+        width: calc(50% - 15px);
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 30px 30px;
+        height: 570px;
+      }
+
+      .carousel {
+        width: calc(50% - 15px);
+        height: 570px;
+      }
+    }
+  }
+}

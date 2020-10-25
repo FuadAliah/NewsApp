@@ -1,0 +1,11 @@
+.business-section {
+  width: 100vw;
+  margin: 40px 0;
+  min-height: 1950px; }
+  .business-section .container {
+    width: 90%;
+    margin: 0 auto; }
+    .business-section .container .grid-contain {
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+      grid-gap: 30px 30px; }
