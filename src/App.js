@@ -9,6 +9,8 @@ import Health from "./Views/Health/Health";
 import Science from "./Views/Science/Science";
 import Sports from "./Views/Sports/Sports";
 import Technology from "./Views/Technology/Technology";
+import Bookmarks from "./Views/Bookmarks/Bookmarks";
+import NotFound from "./Views/NotFound/NotFound";
 
 function App() {
   useEffect(() => {
@@ -34,6 +36,8 @@ function App() {
           <Route path="/Science" component={Science} />
           <Route path="/Sports" component={Sports} />
           <Route path="/Technology" component={Technology} />
+          <Route path="/Bookmarks" component={Bookmarks} />
+          <Route path="/:NotFound" component={NotFound} />
         </Switch>
       </BrowserRouter>
     </div>

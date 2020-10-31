@@ -2,7 +2,22 @@
   display: flex;
   align-items: center;
   justify-content: flex-end; }
+  .loggedIn .bookmarks-icon {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    border-radius: 50%;
+    border: 1px solid #f1f1f1;
+    transition: all 0.2s ease-in-out; }
+    .loggedIn .bookmarks-icon:hover {
+      background: #f8f8f8;
+      border: 1px solid #e0e0e0; }
+    .loggedIn .bookmarks-icon .icon {
+      color: #929292; }
   .loggedIn img {
     width: 40px;
-    height: 40;
+    height: 40px;
     border-radius: 50%; }

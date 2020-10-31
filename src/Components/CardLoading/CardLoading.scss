@@ -1,0 +1,51 @@
+@import "../../Styles/styles.scss";
+
+.text-loading {
+  height: 18px;
+  background: #f4f4f4;
+}
+
+.card-news-loading {
+  background: #ffffff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 40px 0 rgba(0, 0, 0, 0.07);
+
+  .img-contain-loading {
+    height: 250px;
+    background: #f4f4f4;
+  }
+  .card-content-loading {
+    padding: 15px 20px;
+
+    .card-title-loading {
+      @extend .text-loading;
+      margin-bottom: 10px;
+    }
+
+    .card-title-loading:nth-child(2) {
+      width: 200px;
+    }
+
+    .card-data-loading {
+      margin-top: 44px;
+      display: flex;
+
+      .ref-loading {
+        display: flex;
+        align-items: center;
+
+        .card-refrence-loading {
+          margin-right: 50px;
+          width: 100px;
+          @extend .text-loading;
+        }
+
+        .card-date-loading {
+          width: 100px;
+          @extend .text-loading;
+        }
+      }
+    }
+  }
+}

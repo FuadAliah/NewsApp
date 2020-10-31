@@ -4,7 +4,6 @@
   background: #ffffff;
   border-radius: 8px;
   overflow: hidden;
-  max-height: 370px;
   box-shadow: 0 2px 40px 0 rgba(0, 0, 0, 0.07);
   transition: box-shadow 0.3s ease-out, transform 0.3s ease-out, opacity 0.2s ease-out;
   transition-delay: 0.1s;
@@ -18,18 +17,18 @@
   .img-contain {
     height: 250px;
     overflow: hidden;
-  }
+    position: relative;
 
-  img {
-    min-height: 250px;
-    max-height: 250px;
-    width: 100%;
-    object-fit: cover;
-    transform-style: preserve-3d;
-    transition: all 1.5s ease-in-out;
-    transform-origin: center;
+    img {
+      min-height: 250px;
+      max-height: 250px;
+      width: 100%;
+      object-fit: cover;
+      transform-style: preserve-3d;
+      transition: all 1.5s ease-in-out;
+      transform-origin: center;
+    }
   }
-
   .card-content {
     padding: 15px 20px;
 
@@ -41,7 +40,7 @@
     }
 
     .card-data {
-      margin-top: 20px;
+      margin-top: 30px;
       display: flex;
 
       .ref {
@@ -61,6 +60,29 @@
           font-family: "Josefin Sans";
           font-size: 14px;
           color: $gray-color;
+        }
+      }
+
+      .bookmark {
+        width: 28px;
+        height: 28px;
+        background: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        transition: all 0.3s ease-in-out;
+        margin-left: auto;
+        cursor: pointer;
+
+        &:hover {
+          background: #f1f1f1;
+        }
+
+        .favorite {
+          width: 18px;
+          height: 18px;
+          color: $icons-color;
         }
       }
     }

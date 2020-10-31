@@ -1,0 +1,62 @@
+.card-news {
+  background: #ffffff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 40px 0 rgba(0, 0, 0, 0.07);
+  transition: box-shadow 0.3s ease-out, transform 0.3s ease-out, opacity 0.2s ease-out;
+  transition-delay: 0.1s; }
+  .card-news:hover {
+    box-shadow: rgba(45, 45, 45, 0.05) 0px 2px 2px, rgba(49, 49, 49, 0.05) 0px 4px 4px, rgba(42, 42, 42, 0.05) 0px 8px 8px, rgba(32, 32, 32, 0.05) 0px 16px 16px, rgba(49, 49, 49, 0.05) 0px 32px 32px, rgba(35, 35, 35, 0.05) 0px 64px 64px;
+    transform: translate(0, -4px); }
+  .card-news .img-contain {
+    height: 250px;
+    overflow: hidden;
+    position: relative; }
+    .card-news .img-contain img {
+      min-height: 250px;
+      max-height: 250px;
+      width: 100%;
+      object-fit: cover;
+      transform-style: preserve-3d;
+      transition: all 1.5s ease-in-out;
+      transform-origin: center; }
+  .card-news .card-content {
+    padding: 15px 20px; }
+    .card-news .card-content .card-title {
+      font-size: 20px;
+      line-height: 25px;
+      font-weight: 700;
+      color: #00B1FF; }
+    .card-news .card-content .card-data {
+      margin-top: 30px;
+      display: flex; }
+      .card-news .card-content .card-data .ref {
+        display: flex;
+        align-items: center; }
+        .card-news .card-content .card-data .ref .icon {
+          color: #929292;
+          margin-right: 7px; }
+        .card-news .card-content .card-data .ref .card-refrence {
+          margin-right: 50px; }
+        .card-news .card-content .card-data .ref .card-refrence,
+        .card-news .card-content .card-data .ref .card-date {
+          font-family: "Josefin Sans";
+          font-size: 14px;
+          color: #bbbbbb; }
+      .card-news .card-content .card-data .bookmark {
+        width: 28px;
+        height: 28px;
+        background: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        transition: all 0.3s ease-in-out;
+        margin-left: auto;
+        cursor: pointer; }
+        .card-news .card-content .card-data .bookmark:hover {
+          background: #f1f1f1; }
+        .card-news .card-content .card-data .bookmark .favorite {
+          width: 18px;
+          height: 18px;
+          color: #929292; }

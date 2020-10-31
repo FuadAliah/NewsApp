@@ -1,16 +1,20 @@
 import React from "react";
-import { FiFileText, FiCalendar } from "react-icons/fi";
+import { FiFileText, FiCalendar, FiBookmark } from "react-icons/fi";
 
 import "./Card.scss";
 
 function Card({ item }) {
   return (
-    <a href={item.url} className="card-news" target="_blank" rel="noopener noreferrer">
+    <div className="card-news">
       <div className="img-contain">
-        <img src={item.urlToImage} alt="img" onError={(e)=>{e.target.onerror = null; e.target.src="./code2.png"}} />
+        <a href={item.url} target="_blank" rel="noopener noreferrer">
+          <img src={item.urlToImage ? item.urlToImage : window.location.origin + "/default.svg"} alt="img" />
+        </a>
       </div>
       <div className="card-content">
-        <h4 className="card-title">{item.title.slice(0, 65)}</h4>
+        <a href={item.url} target="_blank" rel="noopener noreferrer" className="card-title">
+          {item.title.slice(0, 65)}
+        </a>
         <div className="card-data">
           <div className="ref">
             <FiFileText className="icon" />
@@ -20,9 +24,12 @@ function Card({ item }) {
             <FiCalendar className="icon" />
             <span className="card-date">{item.publishedAt.slice(0, 10)}</span>
           </div>
+          <div className="bookmark">
+            <FiBookmark className="favorite" />
+          </div>
         </div>
       </div>
-    </a>
+    </div>
   );
 }
 
