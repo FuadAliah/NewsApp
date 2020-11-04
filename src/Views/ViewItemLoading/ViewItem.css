@@ -1,0 +1,102 @@
+.view-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 2000px;
+  background-color: #fff; }
+  .view-item .container {
+    width: 90%;
+    margin: 0 auto; }
+    .view-item .container .head-item {
+      display: flex;
+      justify-content: space-between; }
+      .view-item .container .head-item .slide-news-item {
+        border-radius: 8px;
+        overflow: hidden;
+        position: relative;
+        height: 570px;
+        margin-top: 140px;
+        width: 960px; }
+        .view-item .container .head-item .slide-news-item img {
+          width: 960px;
+          min-height: 570px;
+          object-fit: cover; }
+        .view-item .container .head-item .slide-news-item .slide-content-item {
+          display: flex;
+          flex-direction: column;
+          height: 100%;
+          width: 100%;
+          padding: 30px;
+          position: absolute;
+          top: 0;
+          left: 0;
+          color: #ffffff;
+          background: linear-gradient(0deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.1) 100%); }
+          .view-item .container .head-item .slide-news-item .slide-content-item .slide-data-item {
+            height: auto;
+            margin-top: auto; }
+            .view-item .container .head-item .slide-news-item .slide-content-item .slide-data-item .slide-title-item {
+              font-size: 22px;
+              font-weight: 500;
+              margin: 15px 0px 10px 0px;
+              width: 75%;
+              line-height: 33px; }
+            .view-item .container .head-item .slide-news-item .slide-content-item .slide-data-item .slide-refrence-item {
+              font-family: "Josefin Sans";
+              font-size: 13px;
+              color: #bbbbbb; }
+    .view-item .container .detailed-item {
+      margin-top: 40px;
+      width: 960px; }
+      .view-item .container .detailed-item .item-info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center; }
+        .view-item .container .detailed-item .item-info .author-info,
+        .view-item .container .detailed-item .item-info .date-info {
+          display: flex;
+          align-items: center; }
+          .view-item .container .detailed-item .item-info .author-info .author-name,
+          .view-item .container .detailed-item .item-info .date-info .author-name {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 42px;
+            height: 42px;
+            border-radius: 50%;
+            background: #9400d3;
+            color: #fff;
+            font-family: "Josefin Sans";
+            font-weight: 900;
+            margin-right: 10px; }
+          .view-item .container .detailed-item .item-info .author-info .icon-item,
+          .view-item .container .detailed-item .item-info .date-info .icon-item {
+            color: #929292;
+            margin-right: 7px; }
+          .view-item .container .detailed-item .item-info .author-info .author,
+          .view-item .container .detailed-item .item-info .author-info .date,
+          .view-item .container .detailed-item .item-info .date-info .author,
+          .view-item .container .detailed-item .item-info .date-info .date {
+            font-family: "Josefin Sans";
+            font-size: 18px;
+            color: #666; }
+      .view-item .container .detailed-item .content-item {
+        margin-top: 60px; }
+        .view-item .container .detailed-item .content-item .description {
+          margin-bottom: 40px;
+          font-size: 18px;
+          line-height: 27px; }
+        .view-item .container .detailed-item .content-item .content {
+          font-size: 18px;
+          line-height: 27px; }
+        .view-item .container .detailed-item .content-item .tags {
+          display: flex;
+          flex-wrap: wrap;
+          margin-top: 40px; }
+          .view-item .container .detailed-item .content-item .tags .tag {
+            background: #f2f2f2;
+            font-size: 15px;
+            padding: 8px 10px;
+            margin-right: 15px;
+            border-radius: 4px; }

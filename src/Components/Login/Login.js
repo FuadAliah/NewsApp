@@ -39,12 +39,11 @@ export class Login extends Component {
 
   render() {
     let FBContent;
-
     if (this.state.isLoggedIn) {
       FBContent = (
         <div className="loggedIn">
           <NavLink exact to="/Bookmarks" className="bookmarks-icon">
-            <FiBookmark className="icon"/>
+            <FiBookmark className="icon" />
           </NavLink>
           <img src={this.state.picture} alt={this.state.name} />
           <Sidemenu data={this.state} signOut={this.signOut} />

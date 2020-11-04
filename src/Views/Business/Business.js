@@ -16,7 +16,7 @@ const Business = () => {
       }, 500);
     };
     fitchData();
-  }, []);
+  });
   return (
     <section className="business-section">
       <div className="container">

@@ -1,20 +1,22 @@
 import React from "react";
 import { FiFileText, FiCalendar, FiBookmark } from "react-icons/fi";
+import { Link } from "react-router-dom";
 
 import "./Card.scss";
 
 function Card({ item }) {
+  console.log(item);
   return (
     <div className="card-news">
       <div className="img-contain">
-        <a href={item.url} target="_blank" rel="noopener noreferrer">
+        <Link to={`/${item.category}/${item.id}`}>
           <img src={item.urlToImage ? item.urlToImage : window.location.origin + "/default.svg"} alt="img" />
-        </a>
+        </Link>
       </div>
       <div className="card-content">
-        <a href={item.url} target="_blank" rel="noopener noreferrer" className="card-title">
+        <Link to={`/${item.category}/${item.id}`} className="card-title">
           {item.title.slice(0, 65)}
-        </a>
+        </Link>
         <div className="card-data">
           <div className="ref">
             <FiFileText className="icon" />

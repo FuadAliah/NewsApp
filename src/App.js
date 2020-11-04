@@ -11,6 +11,7 @@ import Sports from "./Views/Sports/Sports";
 import Technology from "./Views/Technology/Technology";
 import Bookmarks from "./Views/Bookmarks/Bookmarks";
 import NotFound from "./Views/NotFound/NotFound";
+import ViewItem from "./Views/ViewItem/ViewItem";
 
 function App() {
   useEffect(() => {
@@ -31,13 +32,15 @@ function App() {
         <Navbar />
         <Switch>
           <Route exact path="/Business" component={Business} />
-          <Route path="/Entertainment" component={Entertainment} />
+          <Route exact path="/Business/:id" component={ViewItem} />
+          <Route exact path="/Entertainment" component={Entertainment} />
+          <Route exact path="/Entertainment/:id" component={ViewItem} />
           <Route path="/Health" component={Health} />
           <Route path="/Science" component={Science} />
           <Route path="/Sports" component={Sports} />
           <Route path="/Technology" component={Technology} />
           <Route path="/Bookmarks" component={Bookmarks} />
-          <Route path="/:NotFound" component={NotFound} />
+          <Route path="*" component={NotFound} />
         </Switch>
       </BrowserRouter>
     </div>
