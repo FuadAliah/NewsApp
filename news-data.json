@@ -1,0 +1,1703 @@
+{
+    "status": [
+      200
+    ],
+    "totalResults": [
+      70
+    ],
+    "breaking": [
+      {
+        "source": {
+          "id": null,
+          "name": "Daily Mail"
+        },
+        "category": "business",
+        "author": "By Tom Pyman Mark Duell for MailOnline",
+        "title": "Is that one household? Diners sit in groups of four at Westfield shopping centre in Tier 2 London - Daily Mail",
+        "description": "Scores of people gathered for a bite to eat in the capital today, despite new lockdown rules forbidding friends from different households from doing so.",
+        "url": "https://www.dailymail.co.uk/news/article-8856113/Is-one-household-Diners-sit-groups-four-Westfield-shopping-centre-Tier-2-London.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/19/17/34579080-0-image-a-2_1603123332293.jpg",
+        "publishedAt": "2020-10-19T16:31:49Z",
+        "content": "Pubs and restaurants in London say they have no choice but to trust that their customers are abiding by new lockdown restrictions, blasting the rules as 'not practical' to enforce.\r\nA host of venue b… [+13114 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Daily Mail"
+        },
+        "category": "entertainment",
+        "author": "By Rianne Addo For Mailonline",
+        "title": "Strictly's Ann Widdecombe accused of homophobia after comments about same-sex coupling - Daily Mail",
+        "description": "In a new interview, the former Brexit Party MEP said: 'I don't think it is what viewers of Strictly, especially families, are looking for. But that's up to the audience and the programme.'",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-8856369/Strictlys-Ann-Widdecombe-accused-homophobia-comments-sex-coupling.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/19/18/34581232-0-image-a-25_1603128415684.jpg",
+        "publishedAt": "2020-10-19T17:39:00Z",
+        "content": "Strictly Come Dancing 2010 contestant Ann Widdecombe has been accused of homophobia by fans after claiming families don't want to watch a same-sex couple dance on the show.\r\nIn a new interview, the f… [+5998 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Get Reading"
+        },
+        "category": "science",
+        "author": "Tevye Markson",
+        "title": "Reading to get new walk-in coronavirus testing centre - Berkshire Live",
+        "description": "Reading is currently in Tier 1, but there are concerns cases could quickly spread",
+        "url": "https://www.getreading.co.uk/news/reading-berkshire-news/reading-new-walk-coronavirus-testing-19128360",
+        "urlToImage": "https://i2-prod.getreading.co.uk/news/reading-berkshire-news/article18978788.ece/ALTERNATES/s1200/0_JS219184746.jpg",
+        "publishedAt": "2020-10-19T14:03:45Z",
+        "content": "Reading will see a new coronavirus testing centre open later this week.\r\nThe new walk-in centre will be based at the University of Reading, but will help all people in the town get Covid-19 tests clo… [+2644 chars]"
+      },
+      {
+        "source": {
+          "id": "independent",
+          "name": "Independent"
+        },
+        "category": "sports",
+        "author": null,
+        "title": "West Brom vs Burnley LIVE: Latest Premier League updates tonight - The Independent",
+        "description": "The Baggies and Clarets have one point between them so far this season",
+        "url": "https://www.independent.co.uk/sport/football/live/west-brom-vs-burnley-live-stream-score-premier-league-latest-updates-result-b1158027.html",
+        "urlToImage": "https://static.independent.co.uk/2020/10/19/17/GettyImages-1281112718.jpg",
+        "publishedAt": "2020-10-19T18:42:00Z",
+        "content": "About The Independent commenting\r\nIndependent Premium Comments can be posted by members of our membership scheme, Independent Premium. It allows our most engaged readers to debate the big issues, sha… [+717 chars]"
+      }
+    ],
+    "news": [
+      {
+        "source": {
+          "id": null,
+          "name": "CharlieINTEL.com"
+        },
+        "category": "technology",
+        "author": "Keshav Bhat",
+        "title": "New Limited Time Warzone mode: Zombies Royale - CharlieINTEL.com",
+        "description": "As part of The Haunting of Verdansk event in Warzone, Infinity Ward is bringing a brand new Zombies mode to the action. The new mode, called Zombies Royale, will be available during the event. In this new LTM, players who die will spawn in as a Zombie. Zombie…",
+        "url": "https://charlieintel.com/new-limited-time-warzone-mode-zombies-royale/63406/",
+        "urlToImage": "https://charlieintel.com/wp-content/uploads/2020/10/WZ-Zombie-Royale-005.jpg",
+        "publishedAt": "2020-10-19T17:48:45Z",
+        "content": "Activision and Infinity Ward have officially announced the details on the new Call of Duty: Warzone event.\r\nThe Haunting of Verdansk begins Tuesday, October 20 and ends on Tuesday, November 3 in Warz… [+10917 chars]"
+      },
+      {
+        "source": {
+          "id": "independent",
+          "name": "Independent"
+        },
+        "category": "sports",
+        "author": null,
+        "title": "West Brom vs Burnley LIVE: Latest Premier League updates tonight - The Independent",
+        "description": "The Baggies and Clarets have one point between them so far this season",
+        "url": "https://www.independent.co.uk/sport/football/live/west-brom-vs-burnley-live-stream-score-premier-league-latest-updates-result-b1158027.html",
+        "urlToImage": "https://static.independent.co.uk/2020/10/19/17/GettyImages-1281112718.jpg",
+        "publishedAt": "2020-10-19T18:42:00Z",
+        "content": "About The Independent commenting\r\nIndependent Premium Comments can be posted by members of our membership scheme, Independent Premium. It allows our most engaged readers to debate the big issues, sha… [+717 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Liverpool Echo"
+        },
+        "category": "sports",
+        "author": "Chris Beesley",
+        "title": "Liverpool news and transfers LIVE - Thiago Alcantara injury update, Joel Matip scan, Virgil van Dijk latest - Liverpool Echo",
+        "description": "Liverpool transfer news and updates throughout the day including Joel Matip, Virgil van Dijk and Adama Traore",
+        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-live-news-injuries-thiago-19126452",
+        "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article19127578.ece/ALTERNATES/s1200/0_GettyImages-1280731297.jpg",
+        "publishedAt": "2020-10-19T16:16:52Z",
+        "content": "Mark Clattenburg stole the show back in 2007 with a highly-controversial refereeing display in a Merseyside Derby at Goodison Park and now the former official from Consett has had his say on the late… [+2074 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nottinghamshire Live"
+        },
+        "category": "health",
+        "author": "Jamie Barlow",
+        "title": "Nearly 900 new coronavirus cases confirmed across Nottinghamshire in last 24 hours - Nottinghamshire Live",
+        "description": "More than 17,000 infections have been recorded in total across the region",
+        "url": "https://www.nottinghampost.com/news/nearly-900-new-coronavirus-cases-4621010",
+        "urlToImage": "https://i2-prod.nottinghampost.com/incoming/article4605612.ece/ALTERNATES/s1200/3_NEP_TEM_141020CityCentre_007JPG.jpg",
+        "publishedAt": "2020-10-19T15:44:00Z",
+        "content": "A total of 881 new confirmed coronavirus cases have been recorded across the whole of Nottinghamshire in just 24 hours.\r\nAs of Monday (October 19), 8,779 infections have been recorded in the city and… [+923 chars]"
+      }
+    ],
+    "business": [
+      {
+        "source": {
+          "name": "Daily Mail",
+          "link": "https://www.dailymail.co.uk"
+        },
+        "id": 1,
+        "category": "business",
+        "author": "Tom Pyman Mark for",
+        "title": "Is that one household? Diners sit in groups of four at Westfield shopping centre in Tier 2 London - Daily Mail",
+        "description": "Scores of people gathered for a bite to eat in the capital today, despite new lockdown rules forbidding friends from different households from doing so.",
+        "url": "https://www.dailymail.co.uk/news/article-8856113/Is-one-household-Diners-sit-groups-four-Westfield-shopping-centre-Tier-2-London.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/19/17/34579080-0-image-a-2_1603123332293.jpg",
+        "publishedAt": "2020-10-19T16:31:49Z",
+        "content": "The capital's new 'tier two' restrictions came into force on Saturday but seem to have been ignored by many, with scores of diners gathering in groups to eat at Westfield shopping centre today. Londoners are now banned from social meet-ups with friends and families in any indoor setting unless they live together or have formed a support bubble with them. Includes venues such as pubs and restaurants as well as private homes. However, the warnings appear to have fallen on deaf ears, while businesses in the city - already on the brink of closure due to the lockdown - say policing which households come in is not their job'. David Garcia, 45, operations manager of Arma, a Middle Eastern restaurant in Soho, central London, said he is not going to be the one to tell people to keep to their own household or refuse to serve them. There's been a direct and immediate impact,' he said. We were doing really well on weekends because the area was getting busier and now we are down 50 per cent from last week. When it came into place we took half of what we took last week."
+      },
+      {
+        "source": {
+          "name": "Google News",
+          "link": "https://news.google.com"
+        },
+        "id": 2,
+        "category": "business",
+        "author": "Sandra Hoffman for",
+        "title": "China has been a graveyard for Western retailers. One by one, big brands have withdrawn - Sky News",
+        "description": "The takeover of Sun Art by Alibaba marks a continuation of the slow retreat from China's retail sector by Western players.",
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2NoaW5hLWhhcy1iZWVuLWEtZ3JhdmV5YXJkLWZvci13ZXN0ZXJuLXJldGFpbGVycy1vbmUtYnktb25lLWJpZy1icmFuZHMtaGF2ZS13aXRoZHJhd24tMTIxMDg1MTTSAX1odHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9hbXAvY2hpbmEtaGFzLWJlZW4tYS1ncmF2ZXlhcmQtZm9yLXdlc3Rlcm4tcmV0YWlsZXJzLW9uZS1ieS1vbmUtYmlnLWJyYW5kcy1oYXZlLXdpdGhkcmF3bi0xMjEwODUxNA?oc=5",
+        "urlToImage": "https://e3.365dm.com/20/10/1600x900/skynews-sun-art-china-retail_5143517.jpg?bypass-service-worker&20201019155049",
+        "publishedAt": "2020-10-19T16:24:22Z",
+        "content": "It took another step today when Alibaba, the colossus often described as a Chinese version of eBay and Amazon cumulated, stepped up its investment in bricks-and-mortar retailing. The company is paying HK$28bn (£2.8bn) to raise its stake in Sun Art Retail Group, a hypermarket operator, from 21% to 72%. It will now seek to buy out the remaining shareholders in Sun Art, whose Hong Kong-listed shares shot up by 30% initially, afore closing up 19%. Advertisement Sun Art, which as at the terminus of June operated 481 hypermarkets and three mid-sized supermarkets, is China's second-most sizably voluminous grocery retailer and accounts for around 14% of the hypermarket sector on its own. The deal is consistent with the incipient retail strategy of Daniel Zhang, Alibaba's chairman and chief executive, of cumulating both e-commerce with physical retail."
+      },
+      {
+        "source": {
+          "name": "Daily Mail",
+          "link": "https://www.dailymail.co.uk"
+        },
+        "id": 3,
+        "category": "business",
+        "author": "Sabi Phagura for",
+        "title": "Flybe planes are set to fly again after new owners agree rescue deal - Daily Mail",
+        "description": "Flybe planes might start taking off from British airports again early next year after administrators said they had agreed a rescue deal with Thyme Opco for the collapsed airline.",
+        "url": "https://www.dailymail.co.uk/news/article-8855633/Flybe-planes-set-fly-new-owners-agree-rescue-deal.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/19/16/34577572-0-image-a-96_1603121479655.jpg",
+        "publishedAt": "2020-10-19T15:59:08Z",
+        "content": "It has now reached a deal alone with the administrators, which should visually perceive the purple planes taking to the air again. We are prodigiously exhilarated about the opportunity to relaunch Flybe. The airline is not only a well-kenned UK brand, it was additionally the most astronomically immense regional air carrier in the EU, so while we orchestrate to commence off more minuscule than afore, we expect to engender valuable airline industry jobs, instaurate essential regional connectivity in the UK and contribute to the recuperation of a vital part of the country's economy' verbalized a spokesman for Thyme Opco. Having struggled for years, Flybe was pushed into administration earlier this year as the Covid-19 pandemic ravaged immensely colossal components of the peregrinate market. Even afore the pandemic commenced, in January the airline had narrowly eschewed administration. Flybe Europe's most immensely colossal regional airline collapsed on March 5 after months on the brink, triggering 2,400 job losses and leaving around 15,000 passengers stranded across the UK and Europe. Lamentably, with the situation that has developed with (coronavirus), an already impuissant company, I'm trepidacious, just hasn't been able to survive, convey secretary Grant Shapps verbally expressed at the time."
+      },
+      {
+        "source": {
+          "name": "Express",
+          "link": "https://www.express.co.uk"
+        },
+        "id": 4,
+        "category": "business",
+        "author": "Jess Sheldon for",
+        "title": "Martin Lewis issues urgent warning - hours left to apply for 'substantial amount of money' - Express",
+        "description": "MARTIN LEWIS, the founder of Money Saving Expert, urged members of the public to look into whether they could apply for a payout today - with the deadline for applications falling tonight.",
+        "url": "https://www.express.co.uk/finance/personalfinance/1349667/martin-lewis-self-employed-grant-employment-support-scheme-hmrc",
+        "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/23/750x445/1349667.jpg",
+        "publishedAt": "2020-10-19T15:49:12Z",
+        "content": "Martin Lewis today called for members of the public to see whether they, or people they know, could qualify for financial support following the coronavirus pandemic. His clarion call specifically focused on applying for the second grant under the Self-Employment Income Support Scheme (SEISS). Delivering his urgent message on The Emma Barnett Show on BBC Radio 5Live, he explained today is the final day a person can apply for this second grant. The second SEISS grant - the Self-Employment Income Support Grant - closes for applications today, he began. Now this is a big one. It means a very substantial amount of money - nearly £7,000 available to people. £6,570 available for the self-employed who are eligible. While the cut-off to apply via telephone was at 4pm today, it is possible to apply online until midnight tonight. The second grant - worth 70 percent of the person's average monthly trading profits - is made as a single instalment covering three months’ worth of profits."
+      },
+      {
+        "source": {
+          "name": "Nottinghamshire Live",
+          "link": "https://www.nottinghampost.com"
+        },
+        "id": 5,
+        "category": "business",
+        "author": "Anna Whittaker for",
+        "title": "Local businesses react to news of Deloitte's office closure - Nottinghamshire Live",
+        "description": "Pubs, cafes and shops are already struggling without office workers",
+        "url": "https://www.nottinghampost.com/news/nottingham-news/local-businesses-react-news-deloittes-4620592",
+        "urlToImage": "https://i2-prod.nottinghampost.com/incoming/article2020518.ece/ALTERNATES/s1200/0_4168223JPG.jpg",
+        "publishedAt": "2020-10-19T15:39:00Z",
+        "content": "Local businesses said the news of a large company's office closure in Nottingham will have an impact on their trade. Deloitte announced that it will close its Nottingham office to move to working from home practices, affecting around 160 employees. Businesses in Mansfield Road, near the company's base in Woodborough Road, said the news comes as a blow to the industry which is already struggling. Ozkan Kaya, Manager at City Off License in Mansfield Road, said: We usually have a lot of office workers who come in here, so this will impact us. It is one of those problems which we have to live with at the moment. It will get better but it will take time. I don't blame Deloitte because it whatever the company feels is right for their employees. It is good to have the students here at the moment, without them it would be like a ghost town. Georgia Fyfe, who works at the Rose of England pub, said staying open is already a struggle for the business. The 23-year-old said: Nobody is coming into town now, people are spending their time at home. We are on the bus route and we usually get loads of people coming into town for a pint or two. This whole pandemic has caused too many issues and the government has put too many barriers in place for the hospitality industry. It makes it hard for people to come in."
+      },
+      {
+        "source": {
+          "name": "BBC News",
+          "link": "https://www.bbc.com"
+        },
+        "id": 6,
+        "category": "business",
+        "author": "Janet Powell for",
+        "title": "Coronavirus: Shapps 'very hopeful' of airport testing by early December",
+        "description": "UK transport secretary aims for a new air traveller testing regime, but BA's boss is sceptical.",
+        "url": "https://www.bbc.com/news/business-54599302",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13660/production/_113665497_shappsreuters.jpg",
+        "publishedAt": "2020-10-19T15:35:00Z",
+        "content": "iGrant Shapps said it could happen as long as there was enough testing capacity to support the plan. The government has been consulting on a system where passengers would be tested after just a week of isolation. But BA's new boss wants testing before departure, not quarantine on arrival. Addressing an online aviation conference, Mr Shapps said the government was looking at introducing a virus test alongside a shortened quarantine period by early December. My ministerial colleagues and I have agreed a regime, based on a single test provided by the private sector and at the cost to the passenger, after a period of self-isolation, he said. The government's travel taskforce, which is working on the plans, will put its recommendations before the prime minister in November, Mr Shapps said. The idea is to reduce the amount of time travellers coming into the UK have to spend self-isolating - currently 14 days for those arriving from areas not included on the government's list of travel corridors."
+      },
+      {
+        "source": {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk"
+        },
+        "id": 7,
+        "category": "business",
+        "author": "Brandon Fox for",
+        "title": "Coronavirus: Schools in NI shut as two-week closure begins - BBC News",
+        "description": "The figures come as NI's schools face a two-week closure aimed at curbing the spread of coronavirus.",
+        "url": "https://www.bbc.co.uk/news/uk-northern-ireland-54593770",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1411E/production/_114960228_ni_business_prepare_for_4_week_lockdown_003.jpg",
+        "publishedAt": "2020-10-19T15:35:00Z",
+        "content": "The education minister revealed the figure on the same day that schools began a two-week closure, aimed at curbing the spread of Covid-19. Mr Weir said the figure of 1,491 cases was the overall school population - taking in teachers, staff and students. It is a cumulative figure from 24 August to 13 October, he added The minister said there are about 333,000 students at schools in Northern Ireland and about 19,000 staff. He said the number of positive tests worked out at around 0.4% of the school population, which also means about one in every 250 pupils and staff members. The education minister said schools had mostly had cases of single individuals testing positive. In early September a Department of Education official told Stormont's education committee there had been 88 Covid-19 cases in 64 schools during the first two weeks of term. The education minister has now told assembly members there were 1,491 positive cases of individuals within schools during roughly the first seven weeks of term. But that statistic still leaves a lot of questions unanswered. How many individual schools have been affected and how many of those cases are pupils and how many are staff? How many schools have had to send pupils home to self-isolate for 14 days as a result of a positive case and how many pupils in total have been out of school for two weeks as a result? The latest attendance rate for pupils is 93.7% but those at home self-isolating are still marked as present if they're receiving work, so the rate tells us little about the level of disruption Covid-19 is causing in schools."
+      },
+      {
+        "source": {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk"
+        },
+        "id": 8,
+        "category": "business",
+        "author": "Sandra Hoffman for",
+        "title": "Woman removed from EasyJet plane for not wearing face mask - BBC News",
+        "description": "The passenger on an EasyJet flight from Belfast to Edinburgh swore and shouted \"everybody dies, you know that?\" at crew.",
+        "url": "https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-54605293",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1599C/production/_114967488_easyjet_plane_getty.jpg",
+        "publishedAt": "2020-10-19T15:23:00Z",
+        "content": "Video of the incident at Belfast International Airport on Sunday has been shared on social media. It shows a woman with a Scottish accent swearing and shouting everybody dies, you know that? as she picks up her bag and jacket while being ushered off. She apparently pretends to cough on passengers as she walks down the aisle. An Easyjet spokesman confirmed police were called on Sunday following an incident on flight EZY481 due to a passenger behaving disruptively onboard and refusing to wear their face covering. In line with EASA guidelines, all passengers are currently required to bring their own face covering for their flight which must be worn during boarding and onboard, except when eating or drinking, the spokesman added. Passengers receive clear communications before they travel and via announcements onboard to ensure they are aware of this requirement for the health and safety of everyone onboard. We will not tolerate disruptive behaviour towards other passengers and crew. A spokesperson for Belfast International Airport said airport police were called at around 16:35 on Sunday and the passenger was subsequently arrested and is currently under investigation."
+      },
+      {
+        "source": {
+          "name": "BBC News",
+          "link": "https://www.bbc.com"
+        },
+        "id": 9,
+        "category": "business",
+        "author": "Camilla Hodgson for",
+        "title": "Jack Ma's Ant Group: World's biggest market debut suspended",
+        "description": "The stock market debut by Chinese tech giant Ant Group has been halted after its Shanghai listing was suspended.",
+        "url": "https://www.bbc.com/news/business-54798278",
+        "urlToImage": "https://ichef.bbci.co.uk/news/800/cpsprodpb/11596/production/_111926017_a072c65f-18b8-4c14-b07e-2fd0948206b0.jpg",
+        "publishedAt": "2020-10-19T14:28:00Z",
+        "content": "Shanghai authorities said the group had reported changes in the financial technology regulatory environment, leading to the suspension. The listing in Shanghai and Hong Kong would have been the biggest to date. Ant, backed by Jack Ma, billionaire founder of e-commerce platform Alibaba, was set to sell shares worth about $34.4bn (£26.5bn) on Thursday Ant runs Alipay, the main online payment system in China, where cash, cheques and credit cards have long been eclipsed by e-payment devices and apps. Alipay says the total volume of payments on its platforms in China for the year ending in June was $17.6tn. The online giant had planned to make its dual listing this week. However, Mr Ma and two top executives were asked to attend a meeting with financial regulators on Monday where they were told Ant's online lending business faces more government scrutiny, Reuters news agency reported. The Shanghai stock exchange said on Tuesday that major issues, including Ant's report of changes to the regulatory environment, meant Ant no longer met listing conditions or information disclosure requirements. The Hong Kong exchange then reported that Ant had decided to suspend its planned listing. The share price was set on Monday amid reports of very strong demand from major investors. Ant was due to sell about 11% of its shares. But the pricing valued the whole business at about $313bn. The previous largest debut was Saudi Aramco's $29.4bn float last December."
+      },
+      {
+        "source": {
+          "name": "BBC News",
+          "link": "https://www.bbc.com"
+        },
+        "id": 10,
+        "category": "business",
+        "author": "Amber Fuller for",
+        "title": "Walmart drops inventory robots from its stores",
+        "description": "Retail giant Walmart has scrapped plans to use robots to keep track of its inventory.",
+        "url": "https://www.bbc.com/news/business-54790483",
+        "urlToImage": "https://ichef.bbci.co.uk/news/800/cpsprodpb/BB60/production/_115186974_whatsubject.jpg",
+        "publishedAt": "2020-10-19T14:01:25Z",
+        "content": "TThe world's largest supermarket chain said it had ended its partnership with Bossa Nova Robotics, who made the roving robots. The machines scan shelves to ensure all items are in stock and prices are accurate. They are designed to help bricks-and-mortar stores compete with online retailers like Amazon and Alibaba. The robots have been in use in Walmart stores since 2017 as it moved towards more automation. This was one idea we tried in roughly 500 stores just as we are trying other ideas in additional stores, Walmart said in a statement. A precise inventory is also essential for Walmart’s increasingly popular pickup and delivery services. The company posted a massive $137.7bn (£107bn) in revenue last quarter, driven higher by a 97% surge across its e-commerce platforms during Covid-19 restrictions. With competition among retailers fierce, other companies have taken different approaches to automation. Online retailers such as Amazon and Alibaba have tried to drive efficiency by using robots at their warehouses. Amazon bought a robotics company in 2012 to drive efficiency in its fulfilment centres, where it now uses more than 200,000 robots. Walmart’s bricks-and-mortar rival Target has been more reluctant to use robots in its stores, preferring instead for customers to interact with humans."
+      },
+      {
+        "source": {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com"
+        },
+        "id": 11,
+        "category": "business",
+        "author": "Julia Kollewe for",
+        "title": "Global share rally fizzles out amid new Covid-19 restrictions – as it happened - The Guardian",
+        "description": "European shares initially lifted by US stimulus and vaccine hopes, Chinese retail sales before losing ground",
+        "url": "https://www.theguardian.com/business/live/2020/oct/19/china-first-major-economy-to-rebound-from-covid-19-pandemic-business-live",
+        "urlToImage": "https://i.guim.co.uk/img/media/45a48aef96ae95a83fe8072d9f41c137575356e1/0_153_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=62aaf3a4cc17e4cabddce47d89152738",
+        "publishedAt": "2020-10-19T13:49:00Z",
+        "content": "Stock markets are mixed, as traders are torn between news of more Covid-19 restrictions across Europe, and hopes of a US fiscal stimulus package being agreed soon and that Pfizer’s coronavirus vaccine may be available before the end of the year. US’s Dow Jones up 81 points, or 0.29%, at 28,688 UK’s FTSE 100 down 40.2 points, or 0.68%, at 5,879.36 Germany’s Dax down 0.17% at 12,887 France’s CAC up 0.21% at 4,946 Italy’s FTSE MiB down 0.29% at 19,333 Spain’s Ibex down 0.1% at 6,842 Sterling has risen 0.67% to $1.30 and by 0.53% to €1.1780, after comments from the UK and the EU suggesting that a trade deal is still possible before the end of the year (even though talks are still deadlocked). China’s economy bounced back in the third quarter, the first major economy to do so, although the annual growth rate, of 4.9%, was slightly lower than economists had expected. Investors were cheered by news that retail sales jumped 3.3% in September, which lifted European luxury stocks in early trading. With this, we are saying good-bye for today. We’ll be back tomorrow. Take care! - JK"
+      },
+      {
+        "source": {
+          "name": "BBC News",
+          "link": "https://www.bbc.com"
+        },
+        "id": 12,
+        "category": "business",
+        "author": "Harry Diaz for",
+        "title": "Geek Retreat: Retailer of 'all things geeky' to open 100 new shops - BBC News",
+        "description": "Games and entertainment retailer Geek Retreat says loyal customers helped it thrive in lockdown.",
+        "url": "https://www.bbc.co.uk/news/business-54599300",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13340/production/_114965687_geekretreat.jpg",
+        "publishedAt": "2020-10-19T13:47:00Z",
+        "content": "Geek Retreat - which specialises in all things geeky including comics, memorabilia and table top games - says it will open another 100 stores over the next two years, at a time when the UK High Street is under pressure. The Scottish firm currently has 14 UK sites, which combine retail space with cafes and areas to play games and hold events. It said its Covid-safe plan would create around 600 new jobs. During the pandemic, while our gaming events have had to stop and the hospitality side of our business is more difficult, our stores still have loyal communities who support our retail side, Geek Retreat boss Peter Dobson told the BBC. We have made sure all of our stores are welcoming and accessible to gamers whatever their interests, providing a place for our loyal customers to get out of the house and play safely post-lockdown."
+      },
+      {
+        "source": {
+          "name": "Eastern Daily Press",
+          "link": "https://www.edp24.co.uk"
+        },
+        "id": 13,
+        "category": "business",
+        "author": "Thomas Chapman for",
+        "title": "Hospital looked at two incorrect scans prior to man's death, inquest hears - Eastern Daily Press",
+        "description": "A hospital has pledged to learn from the fatal heart attack of a man in his 20s - who died after a doctor looked at the wrong scans.",
+        "url": "https://www.edp24.co.uk/news/luke-allard-qeh-king-s-lynn-inquest-1-6890311",
+        "urlToImage": "https://www.edp24.co.uk/polopoly_fs/1.6890557!/image/image.jpg",
+        "publishedAt": "2020-10-19T13:43:00Z",
+        "content": "Lucas Luke Allard of Mill Houses, King’s Lynn, died at Queen Elizabeth Hospital (QEH) on March 14 last year, a day after being discharged. The 28-year-old had Marfan syndrome, a genetic disorder which can cause heart issues. An inquest into his death began last year, when Norfolk Coroner’s Court heard Mr Allard had attended A&E on March 12, complaining of severe chest pains. He underwent a CT scan but, after the results were sent to the emergency department, Dr Masud Isham copied and pasted the wrong scan into Mr Allard’s file. The spinal scan, of another patient, showed no abnormalities and Dr Isham sent Mr Allard home at 2.10am on March 13. On the morning of March 14, when another consultant was reviewing scans, the mistake became apparent and it was discovered Mr Allard had an aortic aneurysm. He was rushed to QEH but collapsed at hospital that day. As the inquest continued on Monday, it was also revealed Dr Isham had referred to a second incorrect scan which belonged to Mr Allard but was from 2018 and showed no abnormalities. Providing evidence, doctors from QEH said the hospital was putting in place measures to prevent similar errors, such as upgrading its internal computer systems. Dr Jason Smith, a consultant radiologist at QEH, said it was undeniable that current systems were not user-friendly, while area coroner for Norfolk, Yvonne Blake, said Dr Isham had been completely flummoxed. Dr Smith added that, when abnormalities are found, radiologists must now telephone the doctor who requested a CT scan - rather than asking administrative staff to do so. A&E consultant, Dr Robert Florence, highlighted the potential effect of fatigue on Dr Isham, who finished his shift two-and-a-half hours later than scheduled. He speculated that Dr Isham was unlikely to have taken a break, adding that he was no longer allowed to finish beyond midnight. Ms Blake gave a narrative conclusion, stating: As Lucas was being transferred from wheelchair to bed, he suffered a cardiac arrest and all attempts to resuscitate were unsuccessful. She said she was “satisfied” with action being taken by QEH regarding its internal system, but added: That was not the problem here. The problem came about in reading the wrong scan and Lucas being falsely reassured."
+      },
+      {
+        "source": {
+          "name": "BBC News",
+          "link": "https://www.bbc.com"
+        },
+        "id": 14,
+        "category": "business",
+        "author": "Jacob James for",
+        "title": "London Luton Airport: Consultation into moving holding area from Herts to Cambs - BBC News",
+        "description": "Planes landing at Luton currently share waiting zones with Stansted, but the Luton wants its own.",
+        "url": "https://www.bbc.com/news/uk-england-beds-bucks-herts-54572593",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BDA0/production/_114944584_mediaitem114944583.jpg",
+        "publishedAt": "2020-10-19T13:33:00Z",
+        "content": "The airport currently shares arrival routes and airborne holding areas with Stansted in Essex, with a key position above Royston in Hertfordshire. The proposed new holding area would be above the A1 between Alconbury and St Neots in Cambridgeshire. Neil Thompson, operations director at London Luton, said it was important to hear from the wider community. Airports are assigned holding zones, which are areas in the skies where planes can circle if they have to wait to come in to land. Luton and Stansted currently use zones above Royston, and above Sudbury in Suffolk, at about 8,000ft. Lee Boulton, from NATS, a firm which provides air traffic services for Luton, said: The number of flights into Luton has increased significantly in recent years and our controllers have had to delay aircraft and manually manage each flight to ensure safety. This proposal is all about ensuring safety and the consultation is a great opportunity for people to give us their feedback and help shape the proposed options, so that the airspace around the airport operates more effectively."
+      },
+      {
+        "source": {
+          "name": "BBC News",
+          "link": "https://www.bbc.com"
+        },
+        "id": 15,
+        "category": "business",
+        "author": "Evans Pritchard for",
+        "title": "US election: Businesses brace for unrest",
+        "description": "Shop-owners in cities across the US are boarding up windows as they brace for unrest following the US election.",
+        "url": "https://www.bbc.com/news/business-54788626",
+        "urlToImage": "https://ichef.bbci.co.uk/news/800/cpsprodpb/17424/production/_115186259_hi064148500.jpg",
+        "publishedAt": "2020-10-19T13:32:00Z",
+        "content": "The preparations come just a few months after many businesses were hit by looters in the violent demonstrations that erupted after the death of George Floyd at the hands of police. Retailers Saks 5th Avenue, Nordstrom and pharmacy chain CVS were among the biggest firms taking precautions. Concerns the election will be contested have also weighed on financial markets. However, the main US indexes closed higher on Monday, reversing course after steep falls last week. National polls suggest a healthy lead for challenger Joe Biden over current US President Donald Trump in Tuesday's election. Live updates: Election day dawns as Americans pick Trump or Biden But Mr Biden's lead is narrower in the handful of states that could decide the result. Legal disputes over what votes will be counted are already under way in many states."
+      },
+      {
+        "source": {
+          "name": "Eastern Daily Press",
+          "link": "https://www.edp24.co.uk"
+        },
+        "id": 16,
+        "category": "business",
+        "author": "Laurel Hughes for",
+        "title": "Owner of Primark reveals £810million slump in profits",
+        "description": "It might be hard to believe judging by the pre-lockdown queues for Primark in Norwich – but the firm saw profits nose-dive.",
+        "url": "https://www.edp24.co.uk/business/primark-owner-associated-british-food-reveals-profit-slump-1-6912695",
+        "urlToImage": "https://www.edp24.co.uk/polopoly_fs/1.6912694.1604390985!/image/image.jpg_gen/derivatives/landscape_630/image.jpg",
+        "publishedAt": "2020-10-19T13:04:00Z",
+        "content": "The store’s owner Associated British Foods (ABF) reported the profit drop for the year to September 12. The update comes as its UK stores will shut their doors temporarily from Thursday. Shoppers determined to get their hands on a last minute purchase before the second lockdown queued across the Haymarket at the weekend after the announcement that non-essential retailers will have to close. ABF said the new restrictions will have a significant impact on Primark, although it still expects sales and profits during the current financial year to be higher. George Weston, chief executive, said: “Uncertainty about temporary store closures in the short-term remains, but sales since reopening to the year-end of £2 billion demonstrate the relevance and appeal of our value-for-money offering."
+      },
+      {
+        "source": {
+          "name": "Belfast Telegraph",
+          "link": "https://www.belfasttelegraph.co.uk"
+        },
+        "id": 17,
+        "category": "business",
+        "author": "David Young for",
+        "title": "Executive decision to close businesses a ‘shame and disgrace’ – DUP MLA - Belfast Telegraph",
+        "description": "A DUP Assembly member has branded some of the new coronavirus restrictions introduced by the Stormont executive a “shame and disgrace”.",
+        "url": "https://www.belfasttelegraph.co.uk/news/northern-ireland/executive-decision-to-close-businesses-a-shame-and-disgrace-dup-mla-39641384.html",
+        "urlToImage": "https://www.belfasttelegraph.co.uk/news/northern-ireland/ae83e/39641381.ece/AUTOCROP/w1240h700/bpanews_88622a5a-7a77-4993-b07b-9dcd12c26c84_1",
+        "publishedAt": "2020-10-19T12:49:00Z",
+        "content": "A DUP Assembly member has branded some of the new coronavirus restrictions introduced by the Stormont executive a shame and disgrace. Paul Frew asked who was going to “protect the people” from the decisions being made by an administration his party jointly leads. The North Antrim member’s comments come in the wake of DUP minister Edwin Poots’ criticism of the current four-week Covid-19 circuit-break, a series of measures all the five executive parties, including the DUP, agreed to last week. Mr Poots has also faced calls to apologise after claiming that Covid-19 infection rates were higher in nationalist areas than unionist areas. There were a further six Covid-19 linked deaths and 820 new cases of the virus reported by the Department of Health on Monday."
+      },
+      {
+        "source": {
+          "name": "Belfast Telegraph",
+          "link": "https://www.belfasttelegraph.co.uk"
+        },
+        "id": 18,
+        "category": "business",
+        "author": "Rupert Jones for",
+        "title": "Suffolk brewer Adnams cancels rent as pubs prepare for second lockdown",
+        "description": "Adnams will stop charging its tenants rent through the second lockdown, with immediate effect – after it emerged pubs will not be able to serve takeaway alcohol.",
+        "url": "https://www.edp24.co.uk/business/adnams-cancels-pubs-rents-in-coronavirus-lockdown-1-6911881",
+        "urlToImage": "https://www.edp24.co.uk/polopoly_fs/1.6911878.1604394585!/image/image.jpg_gen/derivatives/landscape_630/image.jpg",
+        "publishedAt": "2020-10-19T12:26:00Z",
+        "content": "The Southwold brewer, which owns pubs throughout Suffolk and north Essex, took a similar decision to cancel rents in its tenanted pubs in March. Now, Nick Attfield, director of properties, confirmed the brewery would do the same for the second lockdown. We’ll do what we can to help our tenants through the lockdown, he said. But any financial help we get from the government is very welcome. Mr Attfield said mothballing the business had been easier this time around. He said: It’s more straightforward because we’ve done it before. But from an emotional and personal perspective of course, it’s still complicated. At least this time we understand the furlough scheme. Back in the spring, we thought we were telling people they were losing their jobs. Despite this, he said the government’s decision to ban takeaway alcohol sales from pubs was a “big frustration. During the first lockdown, takeaways provided a viable income stream for many of our pubs, he said. And if I’m being honest, I think it provided sanity for our publicans. We’re still waiting for clarification on a lot of points – but from previous experience, we know it can sometimes come two or three days later."
+      },
+      {
+        "source": {
+          "name": "Manchester Evening News",
+          "link": "https://www.manchestereveningnews.co.uk"
+        },
+        "id": 19,
+        "category": "business",
+        "author": "Alice Irving for",
+        "title": "IKEA will now buy back your old furniture for up to half its current price - here's how it works - Manchester Evening News",
+        "description": "Shoppers can now sell their old IKEA furniture back to the popular homeware warehouse (and you don't need your receipt)",
+        "url": "https://www.manchestereveningnews.co.uk/whats-on/shopping/ikea-now-buy-back-your-19128228",
+        "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article19128246.ece/ALTERNATES/s1200/1_IKEAshopJPG.jpg",
+        "publishedAt": "2020-10-14"
+      },
+      {
+        "source": {
+          "name": "Manchester Evening News",
+          "link": "https://www.manchestereveningnews.co.uk"
+        },
+        "id": 20,
+        "category": "business",
+        "author": "Tom Rees for",
+        "title": "It feels like Christmas week:' The shoppers out in force at the Trafford Centre ahead of lockdown",
+        "description": "My mum said there’s no chance I’m coming with you - you must be mad, laughs Sophie Waterworth as she leaves the Trafford Centre full of gifts",
+        "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/it-feels-like-christmas-week-19214973",
+        "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article19215833.ece/ALTERNATES/s810/0_Untitled-design.png",
+        "publishedAt": "2020-10-19T12:13:00Z",
+        "content": "It may be early November, but the 30-year-old mum says it 'feels like Christmas week' inside. Festive wrapping paper can be seen poking out Sophie's Primark bags containing a few presents for her children. The shopping centre is decorated with the usual festive fare of Christmas trees, baubles and tinsel to lure in customers. In normal times it would be the start of a busy period for retailers. But in two days time it will fall almost silent as non-essential shops close for a month-long lockdown. Customers like Sophie, from Rochdale, are keen to make the most of the shops before they close on Thursday. Many of the carparks at the centre are full and there are queues outside some shops as people get their last minute purchases. I thought this was going to happen so I did a lot (of shopping) before, I thought I’m going to be organised and not stress, Sophie adds."
+      }
+    ],
+    "entertainment": [
+      {
+        "source": {
+          "name": "Daily Mail"
+        },
+        "id": 1,
+        "category": "entertainment",
+        "author": "By Rianne Addo For Mailonline",
+        "title": "Strictly's Ann Widdecombe accused of homophobia after comments about same-sex coupling - Daily Mail",
+        "description": "In a new interview, the former Brexit Party MEP said: 'I don't think it is what viewers of Strictly, especially families, are looking for. But that's up to the audience and the programme.'",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-8856369/Strictlys-Ann-Widdecombe-accused-homophobia-comments-sex-coupling.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/19/18/34581232-0-image-a-25_1603128415684.jpg",
+        "publishedAt": "2020-10-19T17:39:00Z",
+        "content": "Strictly Come Dancing 2010 contestant Ann Widdecombe has been accused of homophobia by fans after claiming families don't want to watch a same-sex couple dance on the show.\r\nIn a new interview, the f… [+5998 chars]"
+      },
+      {
+        "source": {
+          "name": "The Sun"
+        },
+        "id": 2,
+        "category": "entertainment",
+        "author": "Lottie Tiplady-Bishop",
+        "title": "Meghan and Harry latest news – Duke and Duchess of Sussex to ‘SKIP Christmas with the Queen to spend it in Cal - The Sun",
+        "description": "- What is Meghan Markle's net worth?- Check out the full royal family tree- How old is Archie?",
+        "url": "http://www.thesun.co.uk/fabulous/12963345/meghan-markle-prince-harry-latest-news-skip-christmas-queen/",
+        "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2020/10/KH-COMPOSITE-LIVE-LATEST-MEG-HARRY.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+        "publishedAt": "2020-10-19T17:12:01Z",
+        "content": "MEGHAN WEARS STAGGERING £300,000 WORTH OF JEWELLERY AND CLOTHES IN NEW PHOTO \r\nThe 39-year-old posed alongside Prince Harry in the photo, released ahead of the couple hosting an episode of TIME100 Ta… [+649 chars]"
+      },
+      {
+        "source": {
+          "name": "Daily Mail"
+        },
+        "id": 3,
+        "category": "entertainment",
+        "author": "By Bryony Jewell For Mailonline",
+        "title": "Melanie Sykes, 50, on her six-day fling with Venice gondolier, 23 - Daily Mail",
+        "description": "The presenter, 50,  was seen kissing the handsome young man  during the trip, with her revealing she 'was experiencing so much joy, it was difficult to actually care' who saw them.",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-8856217/Melanie-Sykes-50-reveals-difficult-care-saw-fling-gondolier-Venice.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/19/18/34581168-0-image-a-36_1603127464185.jpg",
+        "publishedAt": "2020-10-19T16:56:56Z",
+        "content": "Melanie Sykes has reflected on her whirlwind trip to Venice where she enjoyed a six-day fling with a 23-year-old gondolier Riccardo Simionato.\r\nThe presenter, 50, was seen kissing the handsome young … [+4028 chars]"
+      },
+      {
+        "source": {
+          "name": "BBC News"
+        },
+        "id": 4,
+        "category": "entertainment",
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "The Countdown: Early voting, Biden's ads and the Beastie Boys - BBC News",
+        "description": "Why is it such a quiet week for Joe Biden and what can the Beastie Boys tell us about this election?",
+        "url": "https://www.bbc.co.uk/news/election-us-2020-54601684",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16F2B/production/_114959939_graphic.png",
+        "publishedAt": "2020-10-19T16:39:00Z",
+        "content": "Just over two weeks to go and while Joe Biden may be having quiet week, he made sure it came after he dropped some ads timed for peak NFL audiences that might just hit a key demographic - one that kn… [+2760 chars]"
+      },
+      {
+        "source": {
+          "name": "Mirror Online"
+        },
+        "id": 5,
+        "category": "entertainment",
+        "author": "Susan Knox",
+        "title": "Zara McDermott's tearful cheating confession infuriates ex Sam's pal Jamie Laing - Mirror Online",
+        "description": "In a first look at her explosive confession, Zara McDermott breaks down into tears as she tells Jamie Laing that she's cheated on his best pal Sam Thompson",
+        "url": "https://www.mirror.co.uk/tv/tv-news/zara-mcdermotts-tearful-confession-cheating-22871092",
+        "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article22871104.ece/ALTERNATES/s1200/1_Made-In-Chelsea.jpg",
+        "publishedAt": "2020-10-19T16:26:00Z",
+        "content": "Zara McDermott will finally disclose the details of when she cheated on boyfriend Sam Thompson. \r\nIntimate details of the night of passion will be unravelled on Monday night's explosive episode of Ma… [+2388 chars]"
+      },
+      {
+        "source": {
+          "name": "The Sun"
+        },
+        "id": 6,
+        "category": "entertainment",
+        "author": "Becky Pemberton",
+        "title": "Meghan Markle and Prince Harry to skip Christmas with ‘disappointed’ Queen & will celebrate in $15m pad, it’s - The Sun",
+        "description": "",
+        "url": "http://www.thesun.co.uk/fabulous/12968059/meghan-markle-prince-harry-skip-christmas-disappointed-queen-archie/",
+        "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2020/10/NINTCHDBPICT000610094021-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+        "publishedAt": "2020-10-19T16:17:00Z",
+        "content": "MEGHAN Markle and Prince Harry will not spend Christmas with the royal family at Sandringham and are looking forward to spending it in California, sources have claimed. \r\nThe Duke and Duchess of Suss… [+3034 chars]"
+      },
+      {
+        "source": {
+          "name": "Daily Mail"
+        },
+        "id": 7,
+        "category": "entertainment",
+        "author": "By Charlotte Dean For Mailonline",
+        "title": "Michelle Keegan RETURNS to Coronation Street set - Daily Mail",
+        "description": "Michelle Keegan returned to the set of the long-running ITV soap on Monday afternoon, as she shared a video panning the set on her Instagram Stories.",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-8856085/Michelle-Keegan-RETURNS-Coronation-Street-set.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/19/17/34579024-0-image-a-108_1603123607241.jpg",
+        "publishedAt": "2020-10-19T16:12:25Z",
+        "content": "She left Coronation Street in 2014 after six years of playing Tina McIntyre.\r\nAnd Michelle Keegan returned to the set of the long-running ITV soap on Monday afternoon, as she shared a video panning t… [+2615 chars]"
+      },
+      {
+        "source": {
+          "name": "BBC News"
+        },
+        "id": 8,
+        "category": "entertainment",
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "John Leslie trial: Ex-Blue Peter presenter cleared of sex assault - BBC News",
+        "description": "The former Blue Peter presenter was accused of grabbing a woman's breasts at a party.",
+        "url": "https://www.bbc.co.uk/news/uk-england-london-54596038",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3E21/production/_102450951_leslie1_pa.jpg",
+        "publishedAt": "2020-10-19T15:58:00Z",
+        "content": "image captionJohn Leslie said he could not remember being at the party in 2008\r\nFormer TV presenter John Leslie has been found not guilty of sexual assault.\r\nThe 55-year-old was on trial at Southwark… [+2203 chars]"
+      },
+      {
+        "source": {
+          "name": "Daily Mail"
+        },
+        "id": 9,
+        "category": "entertainment",
+        "author": "By Kate Dennett For Mailonline",
+        "title": "Denise Welch to join Hollyoaks as Maxine Minniver's mum Trish - Daily Mail",
+        "description": "The Loose Women star, 62, revealed she is joining the cast of Hollyoaks as Nikki Sanderson's on-screen mother Trish. She announced her exciting news on Loose Women on Monday.",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-8855659/Denise-Welch-reveals-joining-cast-Hollyoaks.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/19/15/34575568-0-image-a-63_1603118263129.jpg",
+        "publishedAt": "2020-10-19T15:22:25Z",
+        "content": "Denise Welch has revealed that she is joining the cast of Hollyoaks as Maxine Minniver's mother Trish.\r\nThe Loose Women star, 62, delightedly announced her exciting news during the daytime TV chat sh… [+2821 chars]"
+      },
+      {
+        "source": {
+          "name": "Express"
+        },
+        "id": 10,
+        "category": "entertainment",
+        "author": "Sarra Gray",
+        "title": "Kate Middleton's body language suggests she uses 'hands-off' approach to parenting - Express",
+        "description": "KATE MIDDLETON is the mother of three children. When the Duchess of Cambridge is with the young royals, a body language expert explained she could give a glimpse into her parenting style.",
+        "url": "https://www.express.co.uk/life-style/life/1349636/kate-middleton-news-body-language-parenting-children-prince-william-latest",
+        "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/130/750x445/1349636.jpg",
+        "publishedAt": "2020-10-19T14:55:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "name": "Google News"
+        },
+        "id": 11,
+        "category": "entertainment",
+        "author": null,
+        "title": "Janey Godley joins This Morning as she opens up about providing light relief with her Nicola Sturgeon sketches - Daily Record",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL2VudGVydGFpbm1lbnQvY2VsZWJyaXR5L2phbmV5LWdvZGxleS1qb2lucy1tb3JuaW5nLW9wZW5zLTIyODcwMDcy0gFjaHR0cHM6Ly93d3cuZGFpbHlyZWNvcmQuY28udWsvZW50ZXJ0YWlubWVudC9jZWxlYnJpdHkvamFuZXktZ29kbGV5LWpvaW5zLW1vcm5pbmctb3BlbnMtMjI4NzAwNzIuYW1w?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2020-10-19T14:24:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "name": "Daily Mail"
+        },
+        "id": 12,
+        "category": "entertainment",
+        "author": "By Luke May Charlotte Mitchell For Mailonline",
+        "title": "Rival graffiti artist insists Banksy mural in Nottingham is actually his - Daily Mail",
+        "description": "Birmingham-based artist Itchers has claimed a mural on a wall in Nottingham is his own, despite 'confirmation,' that world-renowned Banksy was in fact the creator.",
+        "url": "https://www.dailymail.co.uk/news/article-8855483/Rival-graffiti-artist-insists-Banksy-mural-Nottingham-actually-his.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/19/14/34573768-0-image-a-51_1603115899935.jpg",
+        "publishedAt": "2020-10-19T14:20:51Z",
+        "content": "A graffiti artist has insisted a mural of a girl using a bicycle tyre as a hula hoop is his own, despite Banksy sharing a picture of the piece on his own Instagram page - the anonymous artist's usual… [+7072 chars]"
+      },
+      {
+        "source": {
+          "name": "Mirror Online"
+        },
+        "id": 13,
+        "category": "entertainment",
+        "author": "Lucy Needham",
+        "title": "Caroline Flack's mum describes desperate battle to remind daughter of her 'fabulous life' - Mirror Online",
+        "description": "Christine Flack has given a heartbreaking TV interview about her late daughter and how her family tried to help her see how 'fabulous' she was before she took her own life",
+        "url": "https://www.mirror.co.uk/3am/celebrity-news/caroline-flacks-mum-describes-desperate-22870247",
+        "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article21532753.ece/ALTERNATES/s1200/2_CarolineFlackMum.jpg",
+        "publishedAt": "2020-10-19T14:08:00Z",
+        "content": "Caroline Flack's mum has opened up about her helpless battle to get her daughter to see how wonderful her life was before she took her own life in February.\r\nIn a heartbreaking interview with ITV Ang… [+2489 chars]"
+      },
+      {
+        "source": {
+          "name": "Daily Mail"
+        },
+        "id": 14,
+        "category": "entertainment",
+        "author": "By Ciara Farmer For Mailonline",
+        "title": "Simon Cowell, 61, is seen in public for FIRST TIME since undergoing surgery - Daily Mail",
+        "description": "The music mogul, 61, looked happy and healthy as he emerged with Lauren Silverman, 43, and Eric, six, during a grocery run in Los Angeles on Sunday",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-8855643/Simon-Cowell-61-seen-public-TIME-undergoing-surgery.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/19/14/34573612-0-image-a-74_1603115619777.jpg",
+        "publishedAt": "2020-10-19T14:00:08Z",
+        "content": "Simon Cowell has been seen in public for the first time since breaking his back, 10 weeks ago, as he stepped out with his partner and son. \r\nThe music mogul, 61, looked happy and healthy as he emerge… [+4893 chars]"
+      },
+      {
+        "source": {
+          "name": "Mirror Online"
+        },
+        "id": 15,
+        "category": "entertainment",
+        "author": "Lucy Domachowski",
+        "title": "Kate Garraway wraps up warm as she steps out after breaking down in tears on GMB - Mirror Online",
+        "description": "The telly star wore a bright pink coat and leopard print scarf to stave off the chilly autumnal weather as she dragged a suitcase through the capital's streets",
+        "url": "https://www.mirror.co.uk/3am/celebrity-news/kate-garraway-wraps-up-warm-22869938",
+        "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article22869876.ece/ALTERNATES/s1200/2_London-Celebrity-Sightings-October-19-2020.jpg",
+        "publishedAt": "2020-10-19T13:29:00Z",
+        "content": "Kate Garraway has been spotted wrapped up warm while heading out in London after breaking down on Good Morning Britain this morning. \r\nThe 53-year-old television presenter, who has been trying to rem… [+2785 chars]"
+      },
+      {
+        "source": {
+          "name": "Sky.com"
+        },
+        "id": 16,
+        "category": "entertainment",
+        "author": "Sabah Choudhry, entertainment reporter",
+        "title": "Homeland actor David Harewood recalls being sectioned and 'sat on' by six riot police officers - Sky News",
+        "description": "The 58-year-old says if he had the same experience in the US he would \"be dead… no doubt about it\".",
+        "url": "https://news.sky.com/story/homeland-actor-david-harewood-recalls-being-sectioned-and-sat-on-by-six-riot-police-officers-12108280",
+        "urlToImage": "https://e3.365dm.com/20/10/1600x900/skynews-davidharewood-homeland_5143234.jpg?20201019104043",
+        "publishedAt": "2020-10-19T13:09:08Z",
+        "content": null
+      },
+      {
+        "source": {
+          "name": "The Sun"
+        },
+        "id": 17,
+        "category": "entertainment",
+        "author": "Stephanie Soteriou",
+        "title": "Emma Willis shares rare photo of ‘stylish’ son Ace, 8, as fans praise her for ‘breaking gender stere - The Sun",
+        "description": "",
+        "url": "http://www.thesun.co.uk/tvandshowbiz/12964324/emma-willis-rare-photo-ace-matt/",
+        "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2020/10/COMPS-JS-EMMA.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+        "publishedAt": "2020-10-19T13:09:00Z",
+        "content": "EMMA Willis has shared a rare photo of \"stylish\" son Ace, eight, with fans praising her for \"breaking gender stereotypes\". \r\nThe 44-year-old presenter and her 37-year-old husband Matt are famously pr… [+3720 chars]"
+      },
+      {
+        "source": {
+          "name": "Theguardian.comtv-and-radio"
+        },
+        "id": 18,
+        "category": "entertainment",
+        "author": "Ellen E Jones",
+        "title": "Lovecraft Country: season one finale recap – spellbinding ending brings us full circle - The Guardian",
+        "description": "We’re back where we began … but everything – and everyone – is much changed in the bloody, magical conclusion of HBO’s ambitious fantasy series",
+        "url": "https://amp.theguardian.comtv-and-radio/2020/oct/19/lovecraft-country-season-one-finale-recap-spellbinding-ending-brings-us-full-circle",
+        "urlToImage": "https://i.guim.co.uk/img/media/c3c36bce4e4c6630d09f5ef90b3713128f0c7fe2/0_315_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45f6920fca25979a1cad32e7d1ccf90f",
+        "publishedAt": "2020-10-19T12:46:00Z",
+        "content": "Well, here we are, back where we began, and yet much-changed by all the places weve been along the way. This weeks season one finale and perhaps last-ever episode picked up where episode nine left of… [+8827 chars]"
+      },
+      {
+        "source": {
+          "name": "NME"
+        },
+        "id": 19,
+        "category": "entertainment",
+        "author": null,
+        "title": "Letter written by The Beatles’ manager confirming Pete Best’s sacking is going up for auction - NME",
+        "description": "A letter written by Brian Epstein, The Beatles' manager, confirming drummer Pete Best's sacking is going up for sale at auction",
+        "url": "https://www.nme.com/news/music/brian-epstein-letter-the-beatles-manager-confirming-pete-best-sacking-up-for-auction-2791166",
+        "urlToImage": "https://www.nme.com/wp-content/uploads/2020/10/GettyImages-2695940.jpg",
+        "publishedAt": "2020-10-19T12:42:00Z",
+        "content": "A letter written by The Beatles manager Brian Epstein following the sacking of the band’s drummer Pete Best is going up for sale at auction.\r\nBest was originally signed with the three long-standing m… [+1528 chars]"
+      },
+      {
+        "source": {
+          "name": "Evening Standard"
+        },
+        "id": 20,
+        "category": "entertainment",
+        "author": "Lizzie Edmonds",
+        "title": "Phillip Schofield 'still pretty confused' about his identity after announcing he is gay - Evening Standard",
+        "description": "",
+        "url": "https://www.standard.co.uk/news/uk/phillip-schofield-still-pretty-confused-about-sexuality-a4572149.html",
+        "urlToImage": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/05/17/10/phillipschofield170520.jpg",
+        "publishedAt": "2020-10-19T12:38:00Z",
+        "content": "Phillip Schofield has admitted he is still pretty confused about his identity after annoucing he is gay.\r\nEarlier this year, the TV presenter revealed he was gay during an episode of ITVs This Mornin… [+9043 chars]"
+      }
+    ],
+    "science": [
+      {
+        "source": {
+          "name": "Get Reading"
+        },
+        "id": 1,
+        "author": "Tevye Markson",
+        "title": "Reading to get new walk-in coronavirus testing centre - Berkshire Live",
+        "description": "Reading is currently in Tier 1, but there are concerns cases could quickly spread",
+        "url": "https://www.getreading.co.uk/news/reading-berkshire-news/reading-new-walk-coronavirus-testing-19128360",
+        "urlToImage": "https://i2-prod.getreading.co.uk/news/reading-berkshire-news/article18978788.ece/ALTERNATES/s1200/0_JS219184746.jpg",
+        "publishedAt": "2020-10-19T14:03:45Z",
+        "content": "Reading will see a new coronavirus testing centre open later this week.\r\nThe new walk-in centre will be based at the University of Reading, but will help all people in the town get Covid-19 tests clo… [+2644 chars]"
+      },
+      {
+        "source": {
+          "name": "Daily Mail"
+        },
+        "id": 2,
+        "author": "By Jack Newman For Mailonline",
+        "title": "Great white shark tries to bite through cage of tourists in video - Daily Mail",
+        "description": "A huge great white shark tried to tear its way into a metal cage housing three tourists during a dive near Mexico. Shark expert Jim Partington oversaw the dive near Guadalupe Island.",
+        "url": "https://www.dailymail.co.uk/news/article-8855423/Great-white-shark-tries-bite-cage-three-female-tourists-inside.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/19/14/34570616-0-image-a-10_1603113669285.jpg",
+        "publishedAt": "2020-10-19T13:41:10Z",
+        "content": "A huge great white shark tried to tear its way into a metal cage housing three tourists during a dive near Mexico.\r\nShark expert Jim Partington from Manchester, oversaw the dive near Guadalupe Island… [+4281 chars]"
+      },
+      {
+        "source": {
+          "name": "Evening Standard"
+        },
+        "id": 3,
+        "author": "Barney Davis",
+        "title": "Asteroid 'could hit Earth' on eve of US election, says Neil deGrasse Tyson - Evening Standard",
+        "description": "",
+        "url": "https://www.standard.co.uk/news/world/asteroid-us-election-neil-degrasse-tyson-a4572146.html",
+        "urlToImage": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/12/02/13/Neil-deGrasse-Tyson.jpg",
+        "publishedAt": "2020-10-19T13:36:00Z",
+        "content": "An asteroid hurtling towards Earth at 25,000mph could strike the planet on the eve of the US general election, according to Neil deGrasse Tyson.\r\nBut the celebrity astrophysicist has said it \"won't b… [+1806 chars]"
+      },
+      {
+        "source": {
+          "name": "The Conversation Africa"
+        },
+        "id": 4,
+        "author": "Christopher Newman",
+        "title": "Artemis Accords: why many countries are refusing to sign Moon exploration agreement - The Conversation UK",
+        "description": "Some nations are concerned the Artemis Accords represent a US power grab.",
+        "url": "https://theconversation.com/artemis-accords-why-many-countries-are-refusing-to-sign-moon-exploration-agreement-148134",
+        "urlToImage": "https://images.theconversation.com/files/364203/original/file-20201019-21-1iptwh0.jpg?ixlib=rb-1.1.0&rect=7%2C74%2C4962%2C2477&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2020-10-19T11:45:00Z",
+        "content": "Eight countries have signed the Artemis Accords, a set of guidelines surrounding the Artemis Program for crewed exploration of the Moon. The United Kingdom, Italy, Australia, Canada, Japan, Luxembour… [+6100 chars]"
+      },
+      {
+        "source": {
+          "name": "ExtremeTech"
+        },
+        "id": 5,
+        "author": "Ryan Whitwam",
+        "title": "Supergiant Star Betelgeuse Might Be Much Closer Than We Thought - ExtremeTech",
+        "description": "Astronomers expect Betelgeuse will go supernova in the next 100,000 years, and it turns out this star might be much closer to Earth than we thought.",
+        "url": "https://www.extremetech.com/extreme/316319-supergiant-star-betelgeuse-might-be-much-closer-than-we-thought",
+        "urlToImage": "https://www.extremetech.com/wp-content/uploads/2020/10/Betelgeuse.jpg",
+        "publishedAt": "2020-10-19T11:30:12Z",
+        "content": "You probably know Betelgeuse as that star with the weird name, but it’s of particular interest to astronomers right now. It’s a red supergiant in Orion many thousands of times brighter than the sun, … [+2635 chars]"
+      },
+      {
+        "source": {
+          "name": "physicsworld.com"
+        },
+        "id": 6,
+        "author": null,
+        "title": "Accretion, not colliding spaghetti, flares-up as star is devoured by black hole - physicsworld.com",
+        "description": "Outflow at 10,000 km/s created extremely bright flare",
+        "url": "https://physicsworld.com/a/accretion-not-colliding-spaghetti-flares-up-as-star-is-devoured-by-black-hole/",
+        "urlToImage": "https://physicsworld.com/wp-content/uploads/2020/10/Sam-Jarman-19-Oct-2020-tidal-disruption.jpg",
+        "publishedAt": "2020-10-19T11:28:50Z",
+        "content": "Flare up: artists impression of a star in the foreground experiencing spaghettification as is sucked in by a supermassive black hole. (Courtesy: ESO/M Kornmesser)\r\nAn extremely bright flare, originat… [+3339 chars]"
+      },
+      {
+        "source": {
+          "name": "Daily Mail"
+        },
+        "id": 7,
+        "author": "Ryan Morrison, Stacy Liberatore",
+        "title": "Orionid Meteor Shower to dazzle with 25 shooting stars per hour - Daily Mail",
+        "description": "These meteors streak across the sky each October, through until  November 7 - but peak viewing is expected on Wednesday, October 21 around midnight.",
+        "url": "https://www.dailymail.co.uk/sciencetech/article-8855177/Orionid-Meteor-Shower-set-dazzle-stargazers-week-25-shooting-stars-hour.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/19/12/33877224-0-image-a-25_1603106280364.jpg",
+        "publishedAt": "2020-10-19T11:20:52Z",
+        "content": "This week stargazers will be able to see up to 25 shooting stars per hour fly across the night sky as the Orionid Meteor Shower puts on its annual show.\r\nThese meteors streak across the sky each Octo… [+5326 chars]"
+      },
+      {
+        "source": {
+          "name": "Teslarati"
+        },
+        "id": 8,
+        "author": "https://www.facebook.com/13ericralph31",
+        "title": "SpaceX’s second rocket recovery drone ship leaves port during Starlink launch - Teslarati",
+        "description": "On October 18th, SpaceX’s second booster recovery ‘drone ship’ left Port Canaveral at the exact same time as a Falcon 9 rocket was launching 60 Starlink satellites a dozen miles to the north. A remote point-tilt-zoom (PTZ) camera recently installed by NASASpa…",
+        "url": "https://www.teslarati.com/spacex-starlink-14-launch-drone-ship-departure/",
+        "urlToImage": "https://www.teslarati.com/wp-content/uploads/2020/10/Starlink-12-F9-B1058-OCISLY-100820-Richard-Angle-14-crop-c-1024x499.jpg",
+        "publishedAt": "2020-10-19T08:55:27Z",
+        "content": "On October 18th, SpaceX’s second booster recovery ‘drone ship’ left Port Canaveral at the exact same time as a Falcon 9 rocket was launching 60 Starlink satellites a dozen miles to the north.\r\nA remo… [+3447 chars]"
+      },
+      {
+        "source": {
+          "name": "ScienceAlert"
+        },
+        "id": 9,
+        "author": "Peter Dockrill",
+        "title": "Ice Melt in Alaska Threatens to Unleash Unprecedented 'Mega-Tsunami', Scientists Warn - ScienceAlert",
+        "description": "A giant, catastrophic tsunami in Alaska triggered by a landslide of rock left unstable after glacier melting is likely to occur in the next two decades, scientists fear - and it could happen within the next 12 months.",
+        "url": "https://www.sciencealert.com/ice-melt-in-alaska-threatens-to-unleash-unprecedented-mega-tsunami-scientists-warn",
+        "urlToImage": "https://www.sciencealert.com/images/2020-10/processed/010-barry-glacier_1024.jpg",
+        "publishedAt": "2020-10-19T06:28:18Z",
+        "content": "A giant, catastrophic tsunami in Alaska triggered by a landslide of rock left unstable after glacier melting is likely to occur in the next two decades, scientists fear - and it could happen within t… [+4562 chars]"
+      },
+      {
+        "source": {
+          "name": "Sky.com"
+        },
+        "id": 10,
+        "author": "Sky",
+        "title": "NASA spacecraft to collect asteroid sample in 'touch-and-go' manoeuvre - Sky News",
+        "description": "NASA hopes it can grab 60g of the Bennu asteroid in just 10 seconds.",
+        "url": "https://news.sky.com/story/nasa-spacecraft-to-collect-asteroid-sample-in-touch-and-go-manoeuvre-12108090",
+        "urlToImage": "https://e3.365dm.com/19/01/1600x900/skynews-bennu-spacecraft_4534492.jpg?20190101020214",
+        "publishedAt": "2020-10-19T04:45:10Z",
+        "content": null
+      },
+      {
+        "source": {
+          "name": "Express"
+        },
+        "id": 11,
+        "author": "Joel Day",
+        "title": "Space breakthrough: Life on Venus 'first detected 42 years ago' - Daily Express",
+        "description": "SPACE scientists first detected signs of alien life on Venus in 1978, archived NASA data suggests.",
+        "url": "https://www.express.co.uk/news/science/1349326/space-news-nasa-venus-alien-life-cosmos-galaxy-earth-science-latest-spt",
+        "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/151/750x445/1349326.jpg",
+        "publishedAt": "2020-10-18T19:08:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "name": "York Press"
+        },
+        "id": 12,
+        "author": "Ed Horner",
+        "title": "Former RAF pilots using drones to fly Covid-19 samples to hospitals - York Press",
+        "description": "SOME of the best pilots in the UK, inclding one from York, are flying Covid-19 Test and Trace samples by drones in a pioneering move to ease…",
+        "url": "https://www.yorkpress.co.uk/news/18803447.former-raf-pilots-using-drones-fly-covid-19-samples-hospitals/",
+        "urlToImage": "https://www.yorkpress.co.uk/resources/images/11928783/",
+        "publishedAt": "2020-10-18T14:18:00Z",
+        "content": "SOME of the best pilots in the UK, inclding one from York, are flying Covid-19 Test and Trace samples by drones in a pioneering move to ease pressure on the NHS during the coronavirus pandemic crisis… [+1583 chars]"
+      },
+      {
+        "source": {
+          "name": "Live Science"
+        },
+        "id": 13,
+        "author": "Hanneke Weitering",
+        "title": "Elon Musk says SpaceX's 1st Starship trip to Mars could fly in 4 years - Livescience.com",
+        "description": "",
+        "url": "https://www.livescience.com/spacex-starship-first-mars-trip-2024.html",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/uKk8NJCgHDqPSkjPBP5cQ5-1200-80.jpg",
+        "publishedAt": "2020-10-18T13:36:00Z",
+        "content": "SpaceX is almost ready to start building a permanent human settlement on Mars with its massive Starship rocket.\r\nThe private spaceflight company is on track to launch its first uncrewed mission to Ma… [+3821 chars]"
+      },
+      {
+        "source": {
+          "name": "Express"
+        },
+        "id": 14,
+        "author": "Joel Day",
+        "title": "Astronomy breakthrough after 'super-habitable' planets discovered - Daily Express",
+        "description": "ASTRONOMERS have found a number of planets with 'super-habitable' potential that were previously overlooked.",
+        "url": "https://www.express.co.uk/news/science/1347564/astronomy-space-latest-science-news-nasa-alien-news-climate-change-spt",
+        "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/151/750x445/1347564.jpg",
+        "publishedAt": "2020-10-18T07:36:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "name": "CNET"
+        },
+        "id": 15,
+        "author": "Amanda Kooser",
+        "title": "Celebrity star Betelgeuse is smaller and closer to us than we thought - CNET",
+        "description": "If you were hoping to see it go supernova, then you're going to be bummed by this latest news.",
+        "url": "https://www.cnet.com/news/celebrity-star-betelgeuse-smaller-and-closer-to-us-than-we-suspected/",
+        "urlToImage": "https://cnet4.cbsistatic.com/img/pgHdMM-GOe79dlbYk2IX-Yu-smY=/1200x630/2020/10/16/52beb61b-a944-4b31-ae5c-a12460bed920/betelgeuse.jpg",
+        "publishedAt": "2020-10-17T18:46:00Z",
+        "content": "Betelgeuse. Betelgeuse. Betelgeuse.\r\nALMA (ESO/NAOJ/NRAO)/E. O'Gorman/P. Kervella\r\nIf you're experiencing the creepy sensation of someone breathing down your neck, it might be Betelgeuse. The infamou… [+2356 chars]"
+      },
+      {
+        "source": {
+          "name": "Universe Today"
+        },
+        "id": 16,
+        "author": null,
+        "title": "We actually don’t know how fast the Milky Way’s supermassive black hole is spinning but there might be a way to find out - Universe Today",
+        "description": "The stars at the center of our galaxy could tell us just how fast our closest supermassive black hole is spinning.",
+        "url": "https://www.universetoday.com/148403/we-actually-dont-know-how-fast-the-milky-ways-supermassive-black-hole-is-spinning-but-might-be-a-way-to-find-out/",
+        "urlToImage": "https://www.universetoday.com/wp-content/uploads/2019/12/eso1921b.jpg",
+        "publishedAt": "2020-10-17T18:35:00Z",
+        "content": "Unless Einstein is wrong, a black hole is defined by three properties: mass, spin, and electric charge. The charge of a black hole should be nearly zero since the matter captured by a black hole is e… [+3176 chars]"
+      }
+    ],
+    "health": [
+      {
+        "source": {
+          "name": "Theguardian.comsociety"
+        },
+        "id": 1,
+        "author": "Sally Weale",
+        "title": "Autistic girls going undiagnosed due to ‘camouflaging’ behaviour, study claims - The Guardian",
+        "description": "Researchers say better awareness needed so females with autism get right support",
+        "url": "https://amp.theguardian.comsociety/2020/oct/19/autistic-girls-going-undiagnosed-due-to-camouflaging-behaviour-study-claims",
+        "urlToImage": "https://i.guim.co.uk/img/media/3c34eb1975baefc6aee9ac81b03506e5fb12b68e/543_0_4005_2405/master/4005.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c86351664bd3cc68f42e7460f12941ed",
+        "publishedAt": "2020-10-19T18:23:00Z",
+        "content": "Girls with autism are not being diagnosed because they are adept at camouflaging their behaviour in an effort to try to fit in, according to a new study.\r\nAutism is diagnosed in 1% of the population … [+3040 chars]"
+      },
+      {
+        "source": {
+          "name": "Mirror Online"
+        },
+        "id": 2,
+        "author": "Oliver Milne",
+        "title": "Covid-19 vaccine 'unlikely' before spring warns Chief Scientific Advisor - Mirror Online",
+        "description": "He also warned that that in future, treating Covid-19 may become more like seasonal flu - so the virus will be with us for some time",
+        "url": "https://www.mirror.co.uk/news/politics/breaking-chief-scientific-advisor-patrick-22871491",
+        "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article22719419.ece/ALTERNATES/s1200/1_Chris-Whitty-and-Patrick-Vallance-Covid-19-Briefing.jpg",
+        "publishedAt": "2020-10-19T17:05:00Z",
+        "content": "A coronavirus vaccine may not be in place until the Spring of next year, and even that may stop it completely, the Governments chief scientific adviser has warned.\r\n Sir Patrick Vallance has said it … [+1915 chars]"
+      },
+      {
+        "source": {
+          "name": "Nottinghamshire Live"
+        },
+        "id": 3,
+        "author": "Jamie Barlow",
+        "title": "Nearly 900 new coronavirus cases confirmed across Nottinghamshire in last 24 hours - Nottinghamshire Live",
+        "description": "More than 17,000 infections have been recorded in total across the region",
+        "url": "https://www.nottinghampost.com/news/nearly-900-new-coronavirus-cases-4621010",
+        "urlToImage": "https://i2-prod.nottinghampost.com/incoming/article4605612.ece/ALTERNATES/s1200/3_NEP_TEM_141020CityCentre_007JPG.jpg",
+        "publishedAt": "2020-10-19T15:44:00Z",
+        "content": "A total of 881 new confirmed coronavirus cases have been recorded across the whole of Nottinghamshire in just 24 hours.\r\nAs of Monday (October 19), 8,779 infections have been recorded in the city and… [+923 chars]"
+      },
+      {
+        "source": {
+          "name": "Nottinghamshire Live"
+        },
+        "id": 4,
+        "author": "Kit Sandeman",
+        "title": "Nottingham Covid cases rising among older age groups, public health boss says - Nottinghamshire Live",
+        "description": "There have also been increases in the number of COVID-related hospital admissions",
+        "url": "https://www.nottinghampost.com/news/local-news/nottingham-covid-cases-rising-among-4620583",
+        "urlToImage": "https://i2-prod.nottinghampost.com/incoming/article1463446.ece/ALTERNATES/s1200/1_Generic-picture-of-QMC-Queens-Medical-Centre-Ambulances-AE-NUH-Nottingham-University-Hospital-Trust.jpg",
+        "publishedAt": "2020-10-19T15:26:00Z",
+        "content": "The number of positive COVID cases in the city has turned a corner and is now coming down overall but there is still a long way to go, according to the director of public health.\r\nNottingham remains … [+4410 chars]"
+      },
+      {
+        "source": {
+          "name": "Google News"
+        },
+        "id": 5,
+        "author": null,
+        "title": "Influencer Dmitriy Stuzhuk dies from COVID-19 after denying its existence - Sky News",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2luZmx1ZW5jZXItZG1pdHJpeS1zdHV6aHVrLWRpZXMtZnJvbS1jb3ZpZC0xOS1hZnRlci1kZW55aW5nLWl0cy1leGlzdGVuY2UtMTIxMDcxNzTSAXFodHRwczovL25ld3Muc2t5LmNvbS9zdG9yeS9hbXAvaW5mbHVlbmNlci1kbWl0cml5LXN0dXpodWstZGllcy1mcm9tLWNvdmlkLTE5LWFmdGVyLWRlbnlpbmctaXRzLWV4aXN0ZW5jZS0xMjEwNzE3NA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2020-10-19T15:20:12Z",
+        "content": null
+      },
+      {
+        "source": {
+          "name": "Daily Mail"
+        },
+        "id": 6,
+        "author": "By Mary Kekatos Senior Health Reporter For Dailymail.com",
+        "title": "More than 40% of coronavirus cases in US nursing homes are asymptomatic, new study finds - Daily Mail",
+        "description": "A new study from Brown University School of Public Health found that 40.6% of more than 5,400 COVID-19 cases across nursing homes did not have symptoms of the virus when they tested positive.",
+        "url": "https://www.dailymail.co.uk/health/article-8855427/More-40-coronavirus-cases-nursing-homes-asymptomatic-new-study-finds.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/19/15/34575340-0-image-a-16_1603119024769.jpg",
+        "publishedAt": "2020-10-19T15:00:10Z",
+        "content": "Nearly half of novel coronavirus cases in nursing homes may be asymptomatic, a new study suggests. \r\nResearchers found that more than 40 percent of patients did not experience a cough, a fever or dif… [+3281 chars]"
+      },
+      {
+        "source": {
+          "name": "The Guardian"
+        },
+        "id": 7,
+        "author": "Damian Carrington",
+        "title": "Bottle-fed babies swallow millions of microplastics a day, study finds - The Guardian",
+        "description": "Exposure is far higher than previously thought and also affects plastic food containers",
+        "url": "https://www.theguardian.com/environment/2020/oct/19/bottle-fed-babies-swallow-millions-microplastics-day-study",
+        "urlToImage": "https://i.guim.co.uk/img/media/2d1abcadecaf4e02a50e74d6f752e936df3c6c89/0_0_5120_3071/master/5120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=475c101c4c775fbeb1999683f352e4b4",
+        "publishedAt": "2020-10-19T15:00:00Z",
+        "content": "Bottle-fed babies are swallowing millions of microplastic particles a day, according to research described as a milestone in the understanding of human exposure to tiny plastics.\r\nScientists found th… [+5399 chars]"
+      },
+      {
+        "source": {
+          "name": "Nature.com"
+        },
+        "id": 8,
+        "author": null,
+        "title": "All eyes on a hurdle race for a SARS-CoV-2 vaccine - Nature.com",
+        "description": "Clinical trial results for a leading vaccine candidate.",
+        "url": "https://www.nature.com/articles/d41586-020-02926-w",
+        "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-020-02926-w/d41586-020-02926-w_18497774.png",
+        "publishedAt": "2020-10-19T14:58:38Z",
+        "content": "The catastrophic global health and socioeconomic impact of COVID-19, together with the absence of any clearly effective preventive or therapeutic remedies, has created a massive unmet medical need. R… [+10759 chars]"
+      },
+      {
+        "source": {
+          "name": "The London Economic"
+        },
+        "id": 9,
+        "author": "Henry Goodwin",
+        "title": "Thanks NHS? Staff offered 'badge or snackbox' as pandemic reward - The London Economic",
+        "description": "According to the HSJ, staff have been pooled on whether they would prefer a thank you card from senior management or a “Graze-style snack box” to recognise their work over the past six months.",
+        "url": "https://www.thelondoneconomic.com/news/thanks-nhs-staff-offered-badge-or-snackbox-as-pandemic-reward/19/10/",
+        "urlToImage": "https://storage.googleapis.com/cdn.thelondoneconomic.com/wp-content/uploads/2020/10/bcfd5a0f-featureimage-scaled.jpg",
+        "publishedAt": "2020-10-19T14:46:29Z",
+        "content": "NHS staff will be offered either a commemorative badge or a snackbox to thank them for their efforts in battling the coronavirus pandemic.\r\nAccording to the HSJ, a clinical commissioning group which … [+2804 chars]"
+      },
+      {
+        "source": {
+          "name": "Warrington Guardian"
+        },
+        "id": 10,
+        "author": "Adam Everett",
+        "title": "Test and trace misses hundreds of contacts in Warrington - Warrington Guardian",
+        "description": "TEST and trace has missed hundreds of Warrington residents who have come into contact with coronavirus patients, according to the Labour Party.",
+        "url": "https://www.warringtonguardian.co.uk/news/18805560.test-trace-misses-hundreds-contacts-warrington/",
+        "urlToImage": "https://www.warringtonguardian.co.uk/resources/images/11863373/",
+        "publishedAt": "2020-10-19T14:35:00Z",
+        "content": "TEST and trace has missed hundreds of Warrington residents who have come into contact with coronavirus patients, according to the Labour Party.\r\nAnalysis by the opposition has revealed that 250,000 c… [+1516 chars]"
+      },
+      {
+        "source": {
+          "name": "Belfast Live"
+        },
+        "id": 11,
+        "author": "Rebecca Black",
+        "title": "Covid-19 survivor expresses frustration over gatherings - Belfast Live",
+        "description": "The Bushmills man spent two weeks on a ventilator in April and missed the birth of his first grandson as he fought for his life",
+        "url": "https://www.belfastlive.co.uk/news/health/covid-19-survivor-expresses-frustration-19129361",
+        "urlToImage": "https://i2-prod.belfastlive.co.uk/incoming/article19129792.ece/ALTERNATES/s1200/0_253757971.jpg",
+        "publishedAt": "2020-10-19T14:29:00Z",
+        "content": "A Covid-19 survivor has expressed his frustration at seeing crowds out despite tough new rules designed to stem the spread of the virus.\r\nGeoffrey McKillop, 56, still requires oxygen almost five mont… [+3501 chars]"
+      },
+      {
+        "source": {
+          "name": "The Guardian"
+        },
+        "id": 12,
+        "author": "Nicola Davis",
+        "title": "Lung cancer cases could be mistaken for Covid, charities warn - The Guardian",
+        "description": "Similarity of symptoms and worries about seeking attention may delay diagnoses",
+        "url": "https://www.theguardian.com/society/2020/oct/19/lung-cancer-cases-could-be-mistaken-for-covid-charities-warn",
+        "urlToImage": "https://i.guim.co.uk/img/media/d05d69496b47cdd8d72642050ece1364dbb3863a/809_380_2532_1519/master/2532.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=027ae46c5cda6f26ae1adb4d5289157c",
+        "publishedAt": "2020-10-19T14:25:00Z",
+        "content": "When Helen began coughing up phlegm in January she thought she just had a chest infection. She was given antibiotics in February and it was only when the cough returned in March and she fell seriousl… [+4062 chars]"
+      },
+      {
+        "source": {
+          "name": "Manchester Evening News"
+        },
+        "id": 13,
+        "author": "Chris Slater",
+        "title": "Seven more people with coronavirus have died in Greater Manchester's hospital - Manchester Evening News",
+        "description": "It brings the death toll from the virus in the region's hospitals to 2,435",
+        "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/seven-more-people-coronavirus-died-19129523",
+        "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article19129599.ece/ALTERNATES/s1200/0_Coronavirus-Wed-Jun-10-2020.jpg",
+        "publishedAt": "2020-10-19T14:20:00Z",
+        "content": "Seven more people with coronavirus have died in hospitals in Greater Manchester.\r\nIt brings the death toll from the virus in the region's hospitals to 2,435\r\n Each the day the NHS gives an update on … [+1889 chars]"
+      },
+      {
+        "source": {
+          "name": "Daily Record"
+        },
+        "id": 14,
+        "author": "Stephen Stewart",
+        "title": "Tragic final post of social media influencer who died from Covid after saying virus 'doesn't exist' - Daily Record",
+        "description": "Fitness coach Dmitriy Stuzhuk, 33, wrote a tragic final post saying his condition was “stable\".",
+        "url": "https://www.dailyrecord.co.uk/news/scottish-news/tragic-final-post-social-media-22868821",
+        "urlToImage": "https://i2-prod.dailyrecord.co.uk/incoming/article22868855.ece/ALTERNATES/s1200/0_Screen-Shot-2020-10-19-at-112737.png",
+        "publishedAt": "2020-10-19T14:19:00Z",
+        "content": "A superfit Instagram influencer who said \" Covid does not exist, then died after contracting the virus, wrote a tragic final post. \r\nFitness coach Dmitriy Stuzhuk, 33, wrote a post saying his conditi… [+2629 chars]"
+      },
+      {
+        "source": {
+          "name": "ITV News"
+        },
+        "id": 15,
+        "author": "Daniel Hewitt",
+        "title": "Two thirds of hospices facing redundancies as government help runs out | ITV News - ITV News",
+        "description": "Two in three hospices in England are now reporting financial concerns that are forcing them to plan for redundancies.",
+        "url": "https://www.itv.com/news/2020-10-19/covid-two-thirds-of-hospices-facing-redundancies-as-government-help-runs-out",
+        "urlToImage": "https://images.ctfassets.net/pjshm78m9jt4/vqy84PZCrCXxKcnOSHjSQ/40bbf413622ac1abdab1d04ebcca2cbb/AP_20162586504080.jpg",
+        "publishedAt": "2020-10-19T13:46:00Z",
+        "content": "Two thirds of hospices in England have started planning for redundancies as the Covid-19 pandemic continues to hit funding for end of life care, ITV News has learned.\r\nExtra government support to hel… [+3935 chars]"
+      },
+      {
+        "source": {
+          "name": "The Guardian"
+        },
+        "id": 16,
+        "author": "Nicola Davis, Pamela Duncan",
+        "title": "A third more deaths occurring at home than before Covid in England - The Guardian",
+        "description": "ONS data suggests people with life-threatening conditions still shying away from hospitals",
+        "url": "https://www.theguardian.com/society/2020/oct/19/third-more-deaths-at-home-before-covid-england",
+        "urlToImage": "https://i.guim.co.uk/img/media/9a92777d1e75f2b05e344b299befb3c1b10cff74/0_203_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d81f089e54f7b874852d84351aa9e21",
+        "publishedAt": "2020-10-19T13:44:00Z",
+        "content": "About a third more deaths in England are occurring at home than before the Covid-19 pandemic, data has revealed, with the majority down to causes other than the coronavirus.\r\nIn April, the UK governm… [+597 chars]"
+      },
+      {
+        "source": {
+          "name": "Wales Online"
+        },
+        "id": 17,
+        "author": "Mark Smith",
+        "title": "Coronavirus infection rates, cases, and deaths for all parts of Wales on Monday, October 19 - Wales Online",
+        "description": "More than 600 new cases as well as one further death have been confirmed on the day a 17-day 'fire-break' national lockdown for Wales was announced by the First Minister",
+        "url": "https://www.walesonline.co.uk/news/wales-news/coronavirus-wales-infection-rates-cardiff-19129111",
+        "urlToImage": "https://i2-prod.walesonline.co.uk/incoming/article19129132.ece/ALTERNATES/s1200/0_Mask-5.jpg",
+        "publishedAt": "2020-10-19T13:37:05Z",
+        "content": "One more person has died in Wales after testing positive for coronavirus and more than 600 new positive cases have been recorded.\r\n Latest figures from Public Health Wales (PHW) for Monday, October 1… [+6785 chars]"
+      },
+      {
+        "source": {
+          "name": "Theguardian.comsociety"
+        },
+        "id": 18,
+        "author": "Peter Walker",
+        "title": "Operation Moonshot: pilot of rapid Covid tests under way in NHS hospitals - The Guardian",
+        "description": "Staff in Manchester, Southampton and Basingstoke first to be part of trial scheme",
+        "url": "https://amp.theguardian.comsociety/2020/oct/19/operation-moonshot-pilot-of-rapid-covid-tests-under-way-in-nhs-hospitals",
+        "urlToImage": "https://i.guim.co.uk/img/media/99e3870e9602022c55a650d0117fe570622f316b/0_0_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5eb5d2ca11a41ae22275776374c1d74",
+        "publishedAt": "2020-10-19T13:19:00Z",
+        "content": "A new trial of rapid, mass Covid testing has begun in hospitals and will soon be rolled out to schools, universities and care homes, Downing Street has announced, in the latest attempt to push ahead … [+5031 chars]"
+      },
+      {
+        "source": {
+          "name": "Warrington Guardian"
+        },
+        "id": 19,
+        "author": "Adam Everett",
+        "title": "More than 100 coronavirus patients at Warrington Hospital - Warrington Guardian",
+        "description": "THERE are currently more than 100 coronavirus patients in Warrington Hospital.",
+        "url": "https://www.warringtonguardian.co.uk/news/18805188.100-coronavirus-patients-warrington-hospital/",
+        "urlToImage": "https://www.warringtonguardian.co.uk/resources/images/11295750/",
+        "publishedAt": "2020-10-19T12:54:00Z",
+        "content": "The latest figures released by Warrington and Halton Teaching Hospitals NHS Foundation showed that as of this afternoon, Monday, there are a total of 109 inpatients across the two sites who had teste… [+750 chars]"
+      },
+      {
+        "source": {
+          "name": "Manchester Evening News"
+        },
+        "id": 20,
+        "author": "Nick Statham",
+        "title": "Fears for vulnerable as Rochdale's infection rate rises to highest in Greater Manchester - Manchester Evening News",
+        "description": "Rochdale has ovetaken Manchester as the worst affect borough in the conurbation.",
+        "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/fears-vulnerable-rochdales-infection-rate-19128897",
+        "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article18736449.ece/ALTERNATES/s1200/3_JHP_MDM_310720ROCHDALE_11.jpg",
+        "publishedAt": "2020-10-19T12:41:00Z",
+        "content": "The leader of Rochdale council says admissions to hospital and intensive care units are his main concern after the boroughs infection rate became the highest in the region over the weekend.\r\nLatest P… [+3048 chars]"
+      }
+    ],
+    "sports": [
+      {
+        "source": {
+          "name": "Independent"
+        },
+        "id": 1,
+        "author": null,
+        "title": "West Brom vs Burnley LIVE: Latest Premier League updates tonight - The Independent",
+        "description": "The Baggies and Clarets have one point between them so far this season",
+        "url": "https://www.independent.co.uk/sport/football/live/west-brom-vs-burnley-live-stream-score-premier-league-latest-updates-result-b1158027.html",
+        "urlToImage": "https://static.independent.co.uk/2020/10/19/17/GettyImages-1281112718.jpg",
+        "publishedAt": "2020-10-19T18:42:00Z",
+        "content": "About The Independent commenting\r\nIndependent Premium Comments can be posted by members of our membership scheme, Independent Premium. It allows our most engaged readers to debate the big issues, sha… [+717 chars]"
+      },
+      {
+        "source": {
+          "name": "The Guardian"
+        },
+        "id": 2,
+        "author": "Nick Ames",
+        "title": "Leeds United v Wolves: Premier League – live! - The Guardian",
+        "description": "Minute-by-minute report: Will Leeds continue their fine start of the season with a win against Wolves? Join Nick Ames to find out",
+        "url": "https://www.theguardian.com/football/live/2020/oct/19/leeds-united-v-wolves-premier-league-live",
+        "urlToImage": "https://i.guim.co.uk/img/media/45f68575c480345c312b3129c7768734ac29a960/0_23_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6d96e0311573ce5bb53b1e5d1f045e99",
+        "publishedAt": "2020-10-19T18:36:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "name": "Manchester Evening News"
+        },
+        "id": 3,
+        "author": "Richard Fay",
+        "title": "Ole Gunnar Solskjaer Manchester United press conference RECAP PSG vs Man Utd team news - Manchester Evening News",
+        "description": "Manchester United face Paris Saint-Germain in the Champions League on Tuesday and Ole Gunnar Solskjaer spoke to the media ahead of the game.",
+        "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-press-conference-recap-19130452",
+        "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article19131810.ece/ALTERNATES/s1200/0_GettyImages-1281123835.jpg",
+        "publishedAt": "2020-10-19T17:52:12Z",
+        "content": "Ole Gunnar Solskjaer addressed the press on Monday evening ahead of Manchester United's encounter with Paris Saint-Germain. \r\n United returned to winning ways on Saturday by beating Newcastle 4-1 and… [+752 chars]"
+      },
+      {
+        "source": {
+          "name": "YouTube"
+        },
+        "id": 4,
+        "author": null,
+        "title": "Timo Werner & Kai Havertz On The Scoresheet As The Blues Took On The Saints | Unseen Extra - Chelsea Football Club",
+        "description": "Timo Werner & Kai Havertz scored their first Premier League goals in a hard fought draw against Southampton at the Bridge. Download Chelsea FC's official mob...",
+        "url": "https://www.youtube.com/watch?v=CmeS9CH6Jzg",
+        "urlToImage": "https://i.ytimg.com/vi/CmeS9CH6Jzg/maxresdefault.jpg",
+        "publishedAt": "2020-10-19T17:05:56Z",
+        "content": null
+      },
+      {
+        "source": {
+          "name": "Liverpool Echo"
+        },
+        "id": 5,
+        "author": "Chris Beesley",
+        "title": "Liverpool news and transfers LIVE - Thiago Alcantara injury update, Joel Matip scan, Virgil van Dijk latest - Liverpool Echo",
+        "description": "Liverpool transfer news and updates throughout the day including Joel Matip, Virgil van Dijk and Adama Traore",
+        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-live-news-injuries-thiago-19126452",
+        "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article19127578.ece/ALTERNATES/s1200/0_GettyImages-1280731297.jpg",
+        "publishedAt": "2020-10-19T16:16:52Z",
+        "content": "Mark Clattenburg stole the show back in 2007 with a highly-controversial refereeing display in a Merseyside Derby at Goodison Park and now the former official from Consett has had his say on the late… [+2074 chars]"
+      },
+      {
+        "source": {
+          "name": "TBR - The Boot Room - Football News"
+        },
+        "id": 6,
+        "author": "Will Butcher",
+        "title": "Michael Stewart criticises new Celtic signing Diego Laxalt in role for second Rangers goal - TBR - The Boot Room - Football News",
+        "description": "Michael Stewart has questioned the decision making of new Celtic signing Diego Laxalt on BBC Sportscene after Rangers took a huge step towards stopping Celtic’s pursuit of 10 in a row, with a 2-0 win at Parkhead. Celtic named a much-changed side after an inte…",
+        "url": "https://tbrfootball.com/michael-stewart-criticises-new-celtic-signing-diego-laxalt-in-role-for-second-rangers-goal/",
+        "urlToImage": "https://tbrfootball.com/static/uploads/27/2020/10/GettyImages-1280759850-1000x600.jpg",
+        "publishedAt": "2020-10-19T16:16:47Z",
+        "content": "Michael Stewart has questioned the decision making of new Celtic signing Diego Laxalt on BBC Sportscene after Rangers took a huge step towards stopping Celtic’s pursuit of 10 in a row, with a 2-0 win… [+1649 chars]"
+      },
+      {
+        "source": {
+          "name": "The Guardian"
+        },
+        "id": 7,
+        "author": "PA Media",
+        "title": "Newcastle fans boycott pay-per-view and donate fees to local food bank - The Guardian",
+        "description": "Newcastle United have raised an estimated £19,000 for a local food bank by boycotting their pay-per-view game against Manchester United",
+        "url": "https://www.theguardian.com/football/2020/oct/19/newcastle-fans-boycott-pay-per-view-and-donate-fees-to-local-food-bank",
+        "urlToImage": "https://i.guim.co.uk/img/media/b2682b52a73e34643920012c7b88be9004d5128f/0_252_5586_3352/master/5586.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b2ba305941a82b8eeb27a1b909c71e1",
+        "publishedAt": "2020-10-19T16:07:00Z",
+        "content": "Newcastle United supporters have raised an estimated £19,000 by choosing to give to a local food bank charity rather than watching their team on pay-per-view at the weekend, a fans group has said.\r\nP… [+1934 chars]"
+      },
+      {
+        "source": {
+          "name": "Sky Sports"
+        },
+        "id": 8,
+        "author": "Sky Sports",
+        "title": "Will Virgil van Dijk injury end title race like Aymeric Laporte's did? - Sky Sports",
+        "description": "Aymeric Laporte's injury put Man City out of the title race by Christmas. The Pitch to Post podcast asks: could the same happen to Liverpool without Virgil van Dijk?",
+        "url": "https://www.skysports.com/football/news/11095/12108375/will-virgil-van-dijk-injury-end-title-race-like-aymeric-laportes-did",
+        "urlToImage": "https://e0.365dm.com/20/10/1600x900/skysports-virgil-van-dijk-liverpool_5143366.jpg?20201019130716",
+        "publishedAt": "2020-10-19T16:02:11Z",
+        "content": null
+      },
+      {
+        "source": {
+          "name": "Birmingham Live"
+        },
+        "id": 9,
+        "author": "Ashley Preece",
+        "title": "Aston Villa to assess Ross Barkley before Leeds United as Tom Heaton injury update issued - Birmingham Live",
+        "description": "Aston Villa injury news - Bjorn Engels is fit again while there will be slight concerns over Ollie Watkins for Friday after he went down in the early stages against Leicester",
+        "url": "https://www.birminghammail.co.uk/sport/football/football-news/aston-villa-injuries-leeds-barkley-18896713",
+        "urlToImage": "https://i2-prod.birminghammail.co.uk/incoming/article19130974.ece/ALTERNATES/s1200/0_GettyImages-1280949700.jpg",
+        "publishedAt": "2020-10-19T16:00:00Z",
+        "content": "Aston Villa's early-season invincibles returned back to Bodymoor Heath today for a recovery session after a battling 1-0 win over Leicester City.\r\nThe ding-dong affair at the King Power Stadium on Su… [+3984 chars]"
+      },
+      {
+        "source": {
+          "name": "Liverpool FC"
+        },
+        "id": 10,
+        "author": null,
+        "title": "'I'm excited' - Jürgen Klopp previews Ajax test - Liverpool FC",
+        "description": "Managing Liverpool against a fellow heavyweight of European football in AFC Ajax is a prospect that excites Jürgen Klopp.",
+        "url": "https://www.liverpoolfc.com/news/first-team/412685-jurgen-klopp-ajax-liverpool-excited-preview-interview",
+        "urlToImage": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0002/13/thumb_112344_default_news_size_5.jpeg",
+        "publishedAt": "2020-10-19T16:00:00Z",
+        "content": "Managing Liverpool against a fellow heavyweight of European football in AFC Ajax is a prospect that excites Jürgen Klopp.\r\n The Reds begin their 2020-21 Champions League campaign in Amsterdam on Wedn… [+1496 chars]"
+      },
+      {
+        "source": {
+          "name": "SB Nation"
+        },
+        "id": 11,
+        "author": "Dustin George-Miller",
+        "title": "Tottenham 3-3 West Ham: player ratings to the theme of Spurs players’ basketball ability - Cartilage Free Captain",
+        "description": "Maybe they’d be better at a different sp... oh, never mind.",
+        "url": "https://cartilagefreecaptain.sbnation.com/2020/10/19/21517405/tottenham-3-3-west-ham-player-ratings-to-the-theme-of-spurs-players-basketball-ability",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/A0gnPkQZ75ijM09IfRtL1qgsgsI=/0x36:1466x804/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21972096/Screen_Shot_2020_10_19_at_11.38.10_AM.png",
+        "publishedAt": "2020-10-19T15:39:18Z",
+        "content": "Maybe theyd be better at a different sp... oh, never mind."
+      },
+      {
+        "source": {
+          "name": "The Sun"
+        },
+        "id": 12,
+        "author": "Jack Figg",
+        "title": "Watch Sergio Aguero grab assistant ref Sian Massey-Ellis on shoulder as both MP and Piers Morgan lead calls - The Sun",
+        "description": "",
+        "url": "http://www.thesun.co.uk/sport/12958278/sergio-aguero-sian-massey-ellis-ban-man-city/",
+        "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2020/10/COMPS_JR_SHOULDERGRAB.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+        "publishedAt": "2020-10-19T15:20:00Z",
+        "content": "SERGIO AGUERO has been slammed after grabbing assistant referee Sian Massey-Ellis on the shoulder.\r\nThe Manchester City striker was arguing a throw in decision given to Arsenal when he put his hand o… [+3996 chars]"
+      },
+      {
+        "source": {
+          "name": "Sky Sports"
+        },
+        "id": 13,
+        "author": "Sky Sports",
+        "title": "Wasps have four more test positive for coronavirus ahead of Premiership final - Sky Sports",
+        "description": "Wasps have produced four more positive tests for coronavirus to place further doubt on their participation in Saturday's Premiership final.",
+        "url": "https://www.skysports.com/rugby-union/news/12551/12108465/wasps-have-four-more-test-positive-for-coronavirus-ahead-of-premiership-final",
+        "urlToImage": "https://e0.365dm.com/20/10/1600x900/skysports-wasps-gv_5138572.jpg",
+        "publishedAt": "2020-10-19T15:09:58Z",
+        "content": "Wasps have produced four more positive tests for coronavirus to place further doubt on their participation in Saturday's Gallagher Premiership final against Exeter.\r\nThree players and one member of s… [+1821 chars]"
+      },
+      {
+        "source": {
+          "name": "Hammers News - West Ham United FC"
+        },
+        "id": 14,
+        "author": "Antony Martin",
+        "title": "Graeme Souness raves about one West Ham ace after Tottenham thriller - Hammers News - West Ham United FC",
+        "description": "Sky Sports pundit Graeme Souness has offered high words of praise for West Ham United's powerful attacker Michail Antonio.",
+        "url": "https://www.hammers.news/columnist/graeme-souness-raves-about-one-west-ham-ace-after-tottenham-thriller/",
+        "urlToImage": "https://www.hammers.news/static/uploads/25/2019/03/GettyImages-1085041704-1024x683.jpg",
+        "publishedAt": "2020-10-19T15:01:08Z",
+        "content": "Graeme Souness offered high words of praise for West Ham ace Michail Antonio, when speaking during Sky Sports’ production of yesterday’s game (October 18th, 16:24).\r\nThe 30-year-old Hammers man has b… [+1623 chars]"
+      },
+      {
+        "source": {
+          "name": "HITC - Football, Gaming, Movies, TV, Music"
+        },
+        "id": 15,
+        "author": "Olly Dawes",
+        "title": "Report claims Premier League ‘big six’ officials are furious with Leeds’ Radrizzani - HITC - Football, Gaming, Movies, TV, Music",
+        "description": "According to the Daily Mail, Leeds United owner Andrea Radrizzani has angered officials at the ‘big six’ Premier League clubs over his Project Big Picture...",
+        "url": "https://www.hitc.com/en-gb/2020/10/19/report-claims-premier-league-big-six-officials-are-furious-with-leeds-radrizzani/",
+        "urlToImage": "https://www.hitc.com/static/uploads/hitcn/1629/leeds_united_owner_andrea_radrizzani_in_the_dug_out_area_before__1379674.jpg",
+        "publishedAt": "2020-10-19T15:00:00Z",
+        "content": "According to the Daily Mail, Leeds United owner Andrea Radrizzani has angered officials at the big six Premier League clubs over his Project Big Picture comments.\r\nLiverpool and Manchester United wer… [+1794 chars]"
+      },
+      {
+        "source": {
+          "name": "Birmingham Live"
+        },
+        "id": 16,
+        "author": "Ashley Preece",
+        "title": "'Something special' - Aston Villa fans drool over Louie Barry as brilliance blows Wolves away - Birmingham Live",
+        "description": "Aston Villa's under-23s made it two-straight wins after beating Wolves at Aggborough this afternoon",
+        "url": "https://www.birminghammail.co.uk/sport/football/football-news/aston-villa-louie-barry-wolves-19130310",
+        "urlToImage": "https://i2-prod.birminghammail.co.uk/incoming/article16900733.ece/ALTERNATES/s1200/1_GettyImages-1170581591.jpg",
+        "publishedAt": "2020-10-19T14:55:00Z",
+        "content": "Villa's under-23s beat near-neighbours Wolves this afternoon to make it back-to-back victories in Premier League 2 Division Two.\r\nMark Delaney's side ran out 3-1 winners against Wolves at Aggborough … [+1590 chars]"
+      },
+      {
+        "source": {
+          "name": "PinkUn"
+        },
+        "id": 17,
+        "author": "paddy davitt",
+        "title": "Norwich City: Daniel Farke reveals his strategy to get the best out of Teemu Pukki | Pink Un - Norwich City Football Club News - PinkUn",
+        "description": "Daniel Farke feels it is ‘absolutely crazy’ to doubt Teemu Pukki’s value to the Norwich City cause.",
+        "url": "https://www.pinkun.com/norwich-city/canaries-daniel-farke-teemu-pukki-strategy-1-6890455",
+        "urlToImage": "https://www.pinkun.com/polopoly_fs/1.6890457!/image/image.jpg",
+        "publishedAt": "2020-10-19T14:26:05Z",
+        "content": "VideoPUBLISHED: 15:23 19 October 2020 | UPDATED: 16:08 19 October 2020\r\nDaniel Farke is keen to manage Teemu Pukki's workload at Norwich City \r\nPicture: Paul Chesterton/Focus Images Ltd\r\nPaul Chester… [+2148 chars]"
+      },
+      {
+        "source": {
+          "name": "The Sun"
+        },
+        "id": 18,
+        "author": "Jake Lambourne",
+        "title": "Gary Neville REFUSED to pay £14.95 to watch Man Utd win over Newcastle on Sky Box Office after slamming club - The Sun",
+        "description": "",
+        "url": "http://www.thesun.co.uk/sport/football/12958535/gary-neville-man-utd-newcastle-sky/",
+        "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2020/10/sport-preview-neville-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+        "publishedAt": "2020-10-19T14:20:00Z",
+        "content": "MANCHESTER UNITED legend Gary Neville has revealed he refused to pay £14.95 to watch the club's 4-1 win at Newcastle on Saturday.\r\nThe 45-year-old - who blasted the Red Devils for joking about fans n… [+1705 chars]"
+      },
+      {
+        "source": {
+          "name": "Nottinghamshire Live"
+        },
+        "id": 19,
+        "author": "Matt Davies",
+        "title": "Winger highlights 'the problem' Nottingham Forest must overcome after first win - Nottinghamshire Live",
+        "description": "Chris Hughton's tenure as Reds boss got off to the perfect start thanks to Joe Lolley's winner",
+        "url": "https://www.nottinghampost.com/sport/football/football-news/winger-highlights-the-problem-nottingham-4620225",
+        "urlToImage": "https://i2-prod.nottinghampost.com/incoming/article4620370.ece/ALTERNATES/s1200/0_Nottingham-Forests-Joe-Lolley-is-mobbed-by-team-mates-after-scoring-against-Blackburn-Rovers.jpg",
+        "publishedAt": "2020-10-19T14:18:00Z",
+        "content": "Joe Lolley says Nottingham Forest must not fall into old habits when they face Rotherham United.\r\nForest picked up a precious win at Blackburn Rovers on Saturday, with Lolley getting the only goal in… [+2063 chars]"
+      },
+      {
+        "source": {
+          "name": "The Sun"
+        },
+        "id": 20,
+        "author": "Dave Fraser",
+        "title": "Wayne Rooney ‘angry’ he has to self-isolate and miss Derby games after testing negative for coronavirus - The Sun",
+        "description": "",
+        "url": "http://www.thesun.co.uk/sport/football/12965461/wayne-rooney-coronavirus-derby/",
+        "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2020/10/sport-preview-rooney-covid-watch.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+        "publishedAt": "2020-10-19T14:15:00Z",
+        "content": "WAYNE ROONEY has revealed he's angry he has to self-isolate after testing negative for coronavirus - because he will now miss 'vital games for Derby'.\r\nThe Manchester United legend, 34, was forced to… [+2959 chars]"
+      }
+    ],
+    "technology": [
+      {
+        "source": {
+          "name": "CharlieINTEL.com"
+        },
+        "id": 1,
+        "author": "Keshav Bhat",
+        "title": "New Limited Time Warzone mode: Zombies Royale - CharlieINTEL.com",
+        "description": "As part of The Haunting of Verdansk event in Warzone, Infinity Ward is bringing a brand new Zombies mode to the action. The new mode, called Zombies Royale, will be available during the event. In this new LTM, players who die will spawn in as a Zombie. Zombie…",
+        "url": "https://charlieintel.com/new-limited-time-warzone-mode-zombies-royale/63406/",
+        "urlToImage": "https://charlieintel.com/wp-content/uploads/2020/10/WZ-Zombie-Royale-005.jpg",
+        "publishedAt": "2020-10-19T17:48:45Z",
+        "content": "Activision and Infinity Ward have officially announced the details on the new Call of Duty: Warzone event.\r\nThe Haunting of Verdansk begins Tuesday, October 20 and ends on Tuesday, November 3 in Warz… [+10917 chars]"
+      },
+      {
+        "source": {
+          "name": "GamesRadar+"
+        },
+        "id": 2,
+        "author": "Hirun Cryer",
+        "title": "PT won’t be backwards compatible with the PS5 - GamesRadar+",
+        "description": "Konami's demo will unfortunately be left on the PS4",
+        "url": "https://www.gamesradar.com/pt-wont-be-backwards-compatible-with-the-ps5/",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/dN5pYMUVGmwoATyNUojQF3-1200-80.jpg",
+        "publishedAt": "2020-10-19T16:36:00Z",
+        "content": "PT will not be backwards compatible on the PS5, Konami has confirmed to GamesRadar.\r\nIn an email sent to us earlier today, Konami said that \"the content will not be available on the PS Store, so user… [+1622 chars]"
+      },
+      {
+        "source": {
+          "name": "Eurogamer.net"
+        },
+        "id": 3,
+        "author": "Richard Leadbetter",
+        "title": "Xbox Series X thermal and power analysis: how efficient is next-gen? - Eurogamer.net",
+        "description": null,
+        "url": "https://www.eurogamer.net/articles/digitalfoundry-2020-xbox-series-x-power-consumption-and-heat-analysis",
+        "urlToImage": "https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-10-19-17-06/digitalfoundry-2020-xbox-series-x-power-consumption-and-heat-analysis-1603123576324.jpg/EG11/resize/1200x-1/digitalfoundry-2020-xbox-series-x-power-consumption-and-heat-analysis-1603123576324.jpg",
+        "publishedAt": "2020-10-19T16:35:00Z",
+        "content": "When the Xbox Series X form factor was first revealed at The Game Awards in December 2019, the size and shape of the unit was something of a surprise. In delivering what it believes to be the most po… [+11448 chars]"
+      },
+      {
+        "source": {
+          "name": "Theguardian.comscience"
+        },
+        "id": 4,
+        "author": "Alex Bellos",
+        "title": "Did you solve it? The bat, the ball and the bamboozle - The Guardian",
+        "description": "The answers to today’s ‘trick’ questions",
+        "url": "https://amp.theguardian.comscience/2020/oct/19/did-you-solve-it-the-bat-the-ball-and-the-bamboozle",
+        "urlToImage": "https://i.guim.co.uk/img/media/0b3b7d45b64d85e34d15959c7158ddca41086420/0_179_5371_3223/master/5371.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8235d8700f62dccab6777acf7901c259",
+        "publishedAt": "2020-10-19T16:00:00Z",
+        "content": "Earlier today I set you six bat and ball puzzles, meaning puzzles that require you to overrule a wrong gut answer. (Click here to read the original bat and ball puzzle.)\r\nFor each of the puzzles, I h… [+5118 chars]"
+      },
+      {
+        "source": {
+          "name": "GameSpot"
+        },
+        "id": 5,
+        "author": "Tony Wilson",
+        "title": "Top New Games Out On Switch, PS4, Xbox One, And PC This Week -- October 18-24, 2020 - GameSpot",
+        "description": "The spooky times are here, thanks to Amnesia: Rebirth and Doom Eternal: The Ancient Gods.",
+        "url": "https://www.gamespot.com/articles/top-new-games-out-on-switch-ps4-xbox-one-and-pc-this-week----october-18-24-2020/1100-6483406/",
+        "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1563/15636435/3747976-newreleases_10182020.jpg",
+        "publishedAt": "2020-10-19T15:39:00Z",
+        "content": "Halloween is getting closer, which means it's time for New Releases to get a little spooky. This week, you can run from monsters in Amnesia: Rebirth or face them head-on in the first part of Doom Ete… [+4048 chars]"
+      },
+      {
+        "source": {
+          "name": "Extratime.media"
+        },
+        "id": 6,
+        "author": "Antoinette Muller",
+        "title": "The Sims 4 new expansion teaser: It's a Snowy Escape - Extra Time Media",
+        "description": "There's a new Sims 4 expansion pack being announced on Tuesday. It's going to be a winter wonderland pack.",
+        "url": "https://extratime.media/2020/10/19/sims-4-new-expansion-teaser-october/",
+        "urlToImage": "https://extratime.media/wp-content/uploads/the-sims-4-snow-escape-expansion-pack-1.jpg",
+        "publishedAt": "2020-10-19T15:21:57Z",
+        "content": "There’s a new Sims 4 expansion pack coming and the team has teased the trailer for the soon to be revealed winter-themed pack.\r\nThe full trailer will premier on 20 October 2020 on the official Sims Y… [+2702 chars]"
+      },
+      {
+        "source": {
+          "name": "Nintendo Life"
+        },
+        "id": 7,
+        "author": "Nintendo Life",
+        "title": "If You're Feeling Creative, Mario Kart Live: Home Circuit Even Works With Ramps And Tunnels - Nintendo Life",
+        "description": "The ceiling's the limit",
+        "url": "https://www.nintendolife.com/news/2020/10/if_youre_feeling_creative_mario_kart_live_home_circuit_even_works_with_ramps_and_tunnels",
+        "urlToImage": "https://images.nintendolife.com/fd1a7485c25fb/1280x720.jpg",
+        "publishedAt": "2020-10-19T15:00:00Z",
+        "content": "Nintendo's shiny new toy, Mario Kart Live: Home Circuit, is now available to buy on Switch. It might be rubbing people's cats up the wrong way, but this clever, creative way to play one of the best m… [+1347 chars]"
+      },
+      {
+        "source": {
+          "name": "IGN"
+        },
+        "id": 8,
+        "author": "Joe Skrebels",
+        "title": "Watch Dogs Legion: Aiden Pearce Playable in Main Campaign, and Customisable - IGN - IGN",
+        "description": "Ubisoft has rewritten parts of Watch Dogs: Legion's main single player campaign specifically so that you can play as (a fully customisable) Aiden Pearce throughout it.",
+        "url": "https://www.ign.com/articles/watch-dogs-legion-aiden-pearce-playable-in-main-campaign-and-fully-customisable",
+        "urlToImage": "https://assets1.ignimgs.com/2020/10/19/aiden-pearce-watch-dogs-legion-1280x720-1603117228916.jpg?width=1280",
+        "publishedAt": "2020-10-19T14:33:30Z",
+        "content": "Original Watch Dogs protagonist Aiden Pearce will be available throughout the main campaign of Watch Dogs: Legion as a fully customisable character, with the single player story adapted to fit his pe… [+2299 chars]"
+      },
+      {
+        "source": {
+          "name": "PC Gamer"
+        },
+        "id": 9,
+        "author": "Fraser Brown",
+        "title": "Facebook VP of VR recommends checking your account is in 'good standing' before buying a Quest 2 - PC Gamer UK",
+        "description": "Facebook accounts are now mandatory for new Oculus users.",
+        "url": "https://www.pcgamer.com/facebook-vp-of-vr-recommends-checking-your-account-is-in-good-standing-before-buying-a-quest-2/",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/2fdPNsgUQHaeR6kLztu4ib-1200-80.jpg",
+        "publishedAt": "2020-10-19T14:18:00Z",
+        "content": "If you've bought an Oculus headset this month, or are planning to in the future, you can no longer avoid Facebook. Signing up to the social network frequented by your worst relatives is now mandatory… [+3084 chars]"
+      },
+      {
+        "source": {
+          "name": "Nintendo Life"
+        },
+        "id": 10,
+        "author": "Nintendo Life",
+        "title": "Video: Hyrule Warriors: Age Of Calamity Trailer Shows Breath Of The Wild's Hestu In Action - Nintendo Life",
+        "description": "And we weren't expecting that voice",
+        "url": "https://www.nintendolife.com/news/2020/10/video_hyrule_warriors_age_of_calamity_trailer_shows_breath_of_the_wilds_hestu_in_action",
+        "urlToImage": "https://images.nintendolife.com/d9c2ef17ae4f9/1280x720.jpg",
+        "publishedAt": "2020-10-19T14:15:00Z",
+        "content": "The latest trailer for Hyrule Warriors: Age of Calamity has appeared, showing off yet another character who will make the leap from The Legend of Zelda: Breath of the Wild.\r\nYes, Hestu, the giant, ma… [+552 chars]"
+      },
+      {
+        "source": {
+          "name": "Eurogamer.net"
+        },
+        "id": 11,
+        "author": "Christian Donlan",
+        "title": "Raji: An Ancient Epic is out now on Xbox One, PS4 and PC - Eurogamer.net",
+        "description": null,
+        "url": "https://www.eurogamer.net/articles/2020-10-19-raji-an-ancient-epic-is-out-now-on-xbox-one-ps4-and-pc",
+        "urlToImage": "https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-10-19-15-08/-1603116515189.jpg/EG11/resize/1200x-1/-1603116515189.jpg",
+        "publishedAt": "2020-10-19T14:06:00Z",
+        "content": "The beautiful third-person action game Raji: An Ancient Epic is now available on Xbox One, PS4 and PC, as well as Switch.\r\nMade by Nodding Heads Games, a team of industry veterans based in Pune, Indi… [+427 chars]"
+      },
+      {
+        "source": {
+          "name": "CyclingTips"
+        },
+        "id": 12,
+        "author": null,
+        "title": "Peak Design Mobile phone case and mounts: A viable competitor to Quad Lock - CyclingTips",
+        "description": "Best known for its high-end and innovative camera accessories, Peak Design is now expanding into a new market with an ecosystem of mobile phone mounting",
+        "url": "https://cyclingtips.com/2020/10/peak-design-mobile-phone-case-and-mounts-a-viable-competitor-to-quad-lock/",
+        "urlToImage": "https://cdn-cyclingtips.pressidium.com/wp-content/uploads/2020/10/Peak-Design-Mobile-cycling-mount-review-cyclingtips-9.jpg",
+        "publishedAt": "2020-10-19T14:01:20Z",
+        "content": "Best known for its high-end and innovative camera accessories, Peak Design is now expanding into a new market with an ecosystem of mobile phone mounting accessories. Its a market that already has som… [+8106 chars]"
+      },
+      {
+        "source": {
+          "name": "Daily Mail"
+        },
+        "id": 13,
+        "author": "By Sean O'grady For Mailonline",
+        "title": "Gregg Wallace displays his muscular physique as he celebrates his 56th birthday - Daily Mail",
+        "description": "The TV chef showcased the hard work he has put into losing weight and improving his fitness as he posed in a gym between rows of treadmills.",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-8855445/Gregg-Wallace-displays-muscular-physique-celebrates-56th-birthday.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/19/14/34571760-0-image-a-48_1603113109666.jpg",
+        "publishedAt": "2020-10-19T13:57:40Z",
+        "content": "He's lost an incredible four stone after overhauling his lifestyle and finding a new love for fitness.\r\nAnd Gregg Wallace displayed his impressive physique in a shirtless snap as he celebrated turnin… [+4221 chars]"
+      },
+      {
+        "source": {
+          "name": "digitalspy.com"
+        },
+        "id": 14,
+        "author": "Susannah Alexander",
+        "title": "Friends' Courteney Cox reflects on not seeing her partner Johnny McDaid for over 200 days - digitalspy.com",
+        "description": "Monica Geller star discusses filling her time without her boyfriend.",
+        "url": "https://www.digitalspy.com/showbiz/a34412526/friends-courteney-cox-johnny-mcdaid-apart-pandemic/",
+        "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/courteney-cox-johnny-mcdaid-1603107621.jpg?crop=0.883xw:0.319xh;0.0561xw,0.0255xh&resize=1200:*",
+        "publishedAt": "2020-10-19T13:48:00Z",
+        "content": "Friends star Courteney Cox has revealed that she hasn't seen her partner Johnny McDaid for over 200 days due to the COVID-19 pandemic.\r\nThe actress, who famously played hyper-organised Monica Geller … [+3421 chars]"
+      },
+      {
+        "source": {
+          "name": "Eurogamer.net"
+        },
+        "id": 15,
+        "author": "Wesley Yin-Poole",
+        "title": "Sony to optimise the PS5 fan with online updates - Eurogamer.net",
+        "description": null,
+        "url": "https://www.eurogamer.net/articles/2020-10-19-sony-to-optimise-the-ps5-fan-with-online-updates",
+        "urlToImage": "https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-10-19-14-40/sony-to-optimise-the-ps5-fan-with-online-updates-1603114828366.jpg/EG11/resize/1200x-1/sony-to-optimise-the-ps5-fan-with-online-updates-1603114828366.jpg",
+        "publishedAt": "2020-10-19T13:46:00Z",
+        "content": "Sony will optimise the PlayStation 5's internal fan with online updates, it's said.\r\nIn an interview with 4Gamer.net (with translation by ResetEra user orzkare backed up by our resident Japanese spea… [+1603 chars]"
+      },
+      {
+        "source": {
+          "name": "YouTube"
+        },
+        "id": 16,
+        "author": null,
+        "title": "Amnesia: Rebirth Review - GameSpot",
+        "description": "The follow-up to Frictional Games' seminal 2010 horror game tightly hones the developer's approach to story, frights, and frustration. Frictional Games' horr...",
+        "url": "https://www.youtube.com/watch?v=Ntlj-JZr93M",
+        "urlToImage": "https://i.ytimg.com/vi/Ntlj-JZr93M/maxresdefault.jpg",
+        "publishedAt": "2020-10-19T13:00:06Z",
+        "content": null
+      },
+      {
+        "source": {
+          "name": "Sky.com"
+        },
+        "id": 17,
+        "author": "Sky",
+        "title": "Nokia to build 4G network on the moon for NASA - Sky News",
+        "description": "The agency's new Artemis programme aims to establish a sustainable human presence on the moon within the next decade.",
+        "url": "https://news.sky.com/story/nokia-to-build-4g-network-on-the-moon-for-nasa-12108387",
+        "urlToImage": "https://e3.365dm.com/20/10/1600x900/skynews-moon-earth-nasa_5143344.jpg?20201019124852",
+        "publishedAt": "2020-10-19T12:38:22Z",
+        "content": null
+      },
+      {
+        "source": {
+          "name": "TechRadar"
+        },
+        "id": 18,
+        "author": "Jess Weatherbed",
+        "title": "Nvidia GeForce RTX 3090 is such a beast it can run Witcher 3, Horizon Zero Dawn and more at 8K - TechRadar UK",
+        "description": "Popular games in stunning visual quality",
+        "url": "https://www.techradar.com/news/nvidia-geforce-rtx-3090-is-such-a-beast-it-can-run-witcher-3-horizon-zero-dawn-and-more-at-8k",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/SmCgqDZbb9GFsQpwwnsyLo-1200-80.jpg",
+        "publishedAt": "2020-10-19T12:19:00Z",
+        "content": "When the announcement of Nvidias RTX 3090 dropped with promises of consistent 4K at 60fps (frames per second), questions had already formed regarding just how far the cards performance could be pushe… [+1722 chars]"
+      },
+      {
+        "source": {
+          "name": "9to5Mac"
+        },
+        "id": 19,
+        "author": null,
+        "title": "iPhone 12 repair costs more expensive than iPhone 11 - 9to5Mac",
+        "description": "Depressing as it may be to discuss iPhone 12 repair costs before people even get their hands on the shiny new device, Apple has updated its support ...",
+        "url": "https://9to5mac.com/2020/10/19/iphone-12-repair-costs/",
+        "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2020/10/iPhone-12-repair.jpg?quality=82&strip=all",
+        "publishedAt": "2020-10-19T11:53:00Z",
+        "content": "Depressing as it may be to discuss iPhone 12 repair costs before people even get their hands on the shiny new device, Apple has updated its support page to reveal the new costs and fees.\r\nThere’s a m… [+2513 chars]"
+      },
+      {
+        "source": {
+          "name": "Road to VR"
+        },
+        "id": 20,
+        "author": "Scott Hayden",
+        "title": "Pimax Secures $20M Series B Funding to Further Develop Wide Field of View VR Headsets - Road to VR",
+        "description": "Pimax, the Chinese startup building wide field of view (FOV) virtual reality headsets, has secured $20 million in Series B financing. Shortly after completing its successful Kickstarter campaign in late 2017, which garnered the company $4.2 million in crowdfu…",
+        "url": "https://www.roadtovr.com/pimax-20m-series-b-wide-fov-vr/",
+        "urlToImage": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2019/09/pimax8kx.jpg",
+        "publishedAt": "2020-10-19T11:14:42Z",
+        "content": "Pimax, the Chinese startup building wide field of view (FOV) virtual reality headsets, has secured $20 million in Series B financing.\r\nShortly after completing its successful Kickstarter campaign in … [+3038 chars]"
+      }
+    ]
+  }
