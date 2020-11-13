@@ -4,8 +4,11 @@ import { Link } from "react-router-dom";
 
 import "./Card.scss";
 
+function titles(str) {
+  return str.split(" ").slice(0, 10).join(" ");
+}
+
 function Card({ item }) {
-  console.log(item);
   return (
     <div className="card-news">
       <div className="img-contain">
@@ -15,7 +18,7 @@ function Card({ item }) {
       </div>
       <div className="card-content">
         <Link to={`/${item.category}/${item.id}`} className="card-title">
-          {item.title.slice(0, 65)}
+          {titles(item.title)}
         </Link>
         <div className="card-data">
           <div className="ref">

@@ -101,6 +101,7 @@
 
     &.slick-active {
       position: relative;
+      overflow: hidden;
 
       &::after {
         content: "";

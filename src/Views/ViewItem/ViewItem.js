@@ -13,7 +13,6 @@ import { Link } from "react-router-dom";
 const ViewItem = (props) => {
   const [item, setItem] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
-  console.log(props);
   useEffect(() => {
     const { id } = props.match.params;
     const pathname = replaceURL(props.location.pathname);
@@ -34,6 +33,10 @@ const ViewItem = (props) => {
   const backPage = () => {
     window.history.back();
   };
+
+  function capitalize(str) {
+    return str.split("")[0].toUpperCase() + str.slice(1);
+  }
 
   return !isLoading ? (
     <main className="view-item">
@@ -77,7 +80,7 @@ const ViewItem = (props) => {
             <p className="content">{item.content ? item.content : CONTENT}</p>
             <div className="tags">
               <Link to={`/${replaceURL(props.match.url)}`} className="tag">
-                {replaceURL(props.match.url)}
+                {capitalize(replaceURL(props.match.url))}
               </Link>
               <a href={item.source.link} className="tag">
                 {item.source.name}

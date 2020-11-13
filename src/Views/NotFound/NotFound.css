@@ -1,4 +1,18 @@
 .not-found {
-  height: 70vh;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
   display: flex;
-  align-items: center; }
+  align-items: center;
+  justify-content: center;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background: #f8f8f8; }
+
+.not-found .contain {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; }

@@ -26,15 +26,11 @@ export class Login extends Component {
     });
 
     if (this.state.isLoggedIn) {
-      window.localStorage.setItem("USER-AUTH", this.state.isLoggedIn);
-    } else {
-      window.localStorage.removeItem("USER-AUTH");
     }
   };
 
   signOut = () => {
     this.setState({ isLoggedIn: false });
-    window.localStorage.removeItem("USER-AUTH");
   };
 
   render() {
